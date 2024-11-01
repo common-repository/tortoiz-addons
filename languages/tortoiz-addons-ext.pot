@@ -1,0 +1,3884 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Tortoiz Addons\n"
+"POT-Creation-Date: 2019-10-13 15:52+0600\n"
+"PO-Revision-Date: 2019-10-13 15:52+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: tortoiz-elementor-addons.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/partials/page-content.php:2 admin/tortoiz-addons-ext-settings.php:25
+msgid "Tortoiz Addons Settings"
+msgstr ""
+
+#: admin/partials/page-content.php:4
+msgid ""
+"Thank you for using <strong><i>Tortoiz Addons</i></strong>. This plugin has "
+"been developed by <a href=\"https://tortoizaddons.com\" target=\"_blank"
+"\">Tortoiz Addons</a> and I hope you enjoy using it."
+msgstr ""
+
+#: admin/partials/page-content.php:11
+msgid "API Settings"
+msgstr ""
+
+#: admin/partials/page-content.php:17
+msgid "Widget Settings"
+msgstr ""
+
+#: admin/partials/page-content.php:19
+msgid "You can disable widget(s) if you would like to not using on your site."
+msgstr ""
+
+#: admin/partials/page-content.php:47 admin/tortoiz-addons-ext-rollback.php:72
+msgid "Rollback to Previous Version"
+msgstr ""
+
+#: admin/partials/page-content.php:49
+msgid ""
+"Experiencing an issue with this version? You can rollback the previous "
+"version."
+msgstr ""
+
+#: admin/partials/page-content.php:55
+#, php-format
+msgid "Reinstall v%s"
+msgstr ""
+
+#: admin/partials/page-content.php:61
+msgid "Warning: Please backup your database before making the rollback."
+msgstr ""
+
+#: admin/tortoiz-addons-ext-rollback.php:56
+msgid "Tortoiz Addons Rollback to Previous Version"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/tortoiz-addons-ext-settings.php:26
+msgid "Tortoiz Addons"
+msgstr ""
+
+#: admin/tortoiz-addons-ext-settings.php:47
+msgid "Google Map API Key"
+msgstr ""
+
+#: admin/tortoiz-addons-ext-settings.php:48
+msgid "MailChimp API Key"
+msgstr ""
+
+#: admin/tortoiz-addons-ext-settings.php:49
+msgid "MailChimp List Id"
+msgstr ""
+
+#: admin/tortoiz-addons-ext-settings.php:53
+#: inc/tortoiz-addons-ext-library.php:32
+msgid "Tortoiz Templates"
+msgstr ""
+
+#: admin/tortoiz-addons-ext-settings.php:66
+msgid "Tortoiz "
+msgstr ""
+
+#: inc/controls/gradient-text.php:51
+msgid "Color Type"
+msgstr ""
+
+#: inc/controls/gradient-text.php:57
+msgid "Classic"
+msgstr ""
+
+#: inc/controls/gradient-text.php:61
+msgid "Gradient"
+msgstr ""
+
+#: inc/controls/gradient-text.php:65 inc/controls/gradient-text.php:189
+#: widgets/advanced/tortoiz-addons-review-carousel.php:242
+#: widgets/basic/tortoiz-addons-content-box.php:164
+#: widgets/basic/tortoiz-addons-content-box.php:188
+#: widgets/basic/tortoiz-addons-flip-box.php:115
+#: widgets/basic/tortoiz-addons-flip-box.php:136
+#: widgets/basic/tortoiz-addons-flip-box.php:195
+#: widgets/basic/tortoiz-addons-flip-box.php:216
+#: widgets/basic/tortoiz-addons-pricing.php:163
+msgid "Image"
+msgstr ""
+
+#: inc/controls/gradient-text.php:73
+#: widgets/advanced/tortoiz-addons-blogpost.php:821
+#: widgets/advanced/tortoiz-addons-blogpost.php:981
+#: widgets/advanced/tortoiz-addons-blogpost.php:1041
+#: widgets/advanced/tortoiz-addons-blogpost.php:1088
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:554
+#: widgets/basic/tortoiz-addons-content-box.php:443
+#: widgets/basic/tortoiz-addons-content-box.php:570
+#: widgets/basic/tortoiz-addons-flip-box.php:507
+#: widgets/basic/tortoiz-addons-flip-box.php:626
+#: widgets/basic/tortoiz-addons-title.php:464
+msgid "Color"
+msgstr ""
+
+#: inc/controls/gradient-text.php:85 inc/controls/gradient-text.php:111
+msgid "Location (%)"
+msgstr ""
+
+#: inc/controls/gradient-text.php:100
+msgid "Second Color"
+msgstr ""
+
+#: inc/controls/gradient-text.php:126
+msgid "Type"
+msgstr ""
+
+#: inc/controls/gradient-text.php:129
+msgid "Linear"
+msgstr ""
+
+#: inc/controls/gradient-text.php:130
+msgid "Radial"
+msgstr ""
+
+#: inc/controls/gradient-text.php:141
+msgid "Angle (deg)"
+msgstr ""
+
+#: inc/controls/gradient-text.php:164 inc/controls/gradient-text.php:205
+#: widgets/advanced/tortoiz-addons-login-form.php:253
+#: widgets/advanced/tortoiz-addons-review-carousel.php:144
+#: widgets/advanced/tortoiz-addons-review-carousel.php:416
+#: widgets/basic/tortoiz-addons-piechart.php:279
+#: widgets/basic/tortoiz-addons-team.php:117
+#: widgets/basic/tortoiz-addons-team.php:484
+msgid "Position"
+msgstr ""
+
+#: inc/controls/gradient-text.php:167 inc/controls/gradient-text.php:215
+msgid "Center Center"
+msgstr ""
+
+#: inc/controls/gradient-text.php:168 inc/controls/gradient-text.php:214
+msgid "Center Left"
+msgstr ""
+
+#: inc/controls/gradient-text.php:169 inc/controls/gradient-text.php:216
+msgid "Center Right"
+msgstr ""
+
+#: inc/controls/gradient-text.php:170 inc/controls/gradient-text.php:212
+msgid "Top Center"
+msgstr ""
+
+#: inc/controls/gradient-text.php:171 inc/controls/gradient-text.php:211
+msgid "Top Left"
+msgstr ""
+
+#: inc/controls/gradient-text.php:172 inc/controls/gradient-text.php:213
+msgid "Top Right"
+msgstr ""
+
+#: inc/controls/gradient-text.php:173 inc/controls/gradient-text.php:218
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/controls/gradient-text.php:174 inc/controls/gradient-text.php:217
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/controls/gradient-text.php:175 inc/controls/gradient-text.php:219
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/controls/gradient-text.php:210 inc/controls/gradient-text.php:369
+#: inc/controls/gradient-text.php:400 inc/controls/gradient-text.php:421
+msgid "Default"
+msgstr ""
+
+#: inc/controls/gradient-text.php:220 inc/controls/gradient-text.php:425
+msgid "Custom"
+msgstr ""
+
+#: inc/controls/gradient-text.php:233
+msgid "X Position"
+msgstr ""
+
+#: inc/controls/gradient-text.php:299
+msgid "Y Position"
+msgstr ""
+
+#: inc/controls/gradient-text.php:365
+msgid "Attachment"
+msgstr ""
+
+#: inc/controls/gradient-text.php:370
+msgid "Scroll"
+msgstr ""
+
+#: inc/controls/gradient-text.php:371
+msgid "Fixed"
+msgstr ""
+
+#: inc/controls/gradient-text.php:385
+msgid "Note: Attachment Fixed works only on desktop."
+msgstr ""
+
+#: inc/controls/gradient-text.php:395 inc/controls/gradient-text.php:402
+msgid "Repeat"
+msgstr ""
+
+#: inc/controls/gradient-text.php:401
+msgid "No-repeat"
+msgstr ""
+
+#: inc/controls/gradient-text.php:403
+msgid "Repeat-x"
+msgstr ""
+
+#: inc/controls/gradient-text.php:404
+msgid "Repeat-y"
+msgstr ""
+
+#: inc/controls/gradient-text.php:416
+#: widgets/advanced/tortoiz-addons-portfolio.php:186
+#: widgets/advanced/tortoiz-addons-review-carousel.php:263
+#: widgets/basic/tortoiz-addons-content-box.php:746
+#: widgets/basic/tortoiz-addons-content-box.php:772
+#: widgets/basic/tortoiz-addons-counter.php:453
+#: widgets/basic/tortoiz-addons-flip-box.php:518
+#: widgets/basic/tortoiz-addons-flip-box.php:539
+#: widgets/basic/tortoiz-addons-flip-box.php:637
+#: widgets/basic/tortoiz-addons-flip-box.php:658
+#: widgets/basic/tortoiz-addons-piechart.php:164
+msgid "Size"
+msgstr ""
+
+#: inc/controls/gradient-text.php:422
+msgid "Auto"
+msgstr ""
+
+#: inc/controls/gradient-text.php:423
+msgid "Cover"
+msgstr ""
+
+#: inc/controls/gradient-text.php:424
+msgid "Contain"
+msgstr ""
+
+#: inc/controls/gradient-text.php:437 inc/tortoiz-addons-ext-controls.php:856
+#: widgets/advanced/tortoiz-addons-banner-slider.php:754
+#: widgets/advanced/tortoiz-addons-banner-slider.php:837
+#: widgets/advanced/tortoiz-addons-contact-form.php:406
+#: widgets/advanced/tortoiz-addons-countdown.php:243
+#: widgets/advanced/tortoiz-addons-login-form.php:353
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:379
+#: widgets/advanced/tortoiz-addons-modal-box.php:247
+#: widgets/advanced/tortoiz-addons-modal-box.php:1090
+#: widgets/advanced/tortoiz-addons-particle-layer.php:462
+#: widgets/advanced/tortoiz-addons-particle-layer.php:847
+#: widgets/advanced/tortoiz-addons-particle-layer.php:927
+#: widgets/advanced/tortoiz-addons-portfolio.php:614
+#: widgets/advanced/tortoiz-addons-search-form.php:130
+#: widgets/advanced/tortoiz-addons-search-form.php:330
+#: widgets/basic/tortoiz-addons-social-icons.php:304
+#: widgets/basic/tortoiz-addons-video.php:393
+msgid "Width"
+msgstr ""
+
+#: inc/controls/icon.php:914 inc/controls/icon.php:915
+msgid "Select Icon"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-base.php:42
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: inc/tortoiz-addons-ext-base.php:43 inc/tortoiz-addons-ext-base.php:62
+#: inc/tortoiz-addons-ext-base.php:83
+msgid "Tortoiz Addons for Elementor"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-base.php:44 inc/tortoiz-addons-ext-base.php:63
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: inc/tortoiz-addons-ext-base.php:61 inc/tortoiz-addons-ext-base.php:82
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: inc/tortoiz-addons-ext-base.php:84
+msgid "PHP"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:26
+#: inc/tortoiz-addons-ext-controls.php:71
+#: inc/tortoiz-addons-ext-controls.php:303
+#: widgets/basic/tortoiz-addons-content-box.php:277
+#: widgets/basic/tortoiz-addons-dynamic-button.php:107
+#: widgets/basic/tortoiz-addons-pricing.php:314
+#: widgets/basic/tortoiz-addons-team.php:365
+#: widgets/basic/tortoiz-addons-transform.php:200
+#: widgets/basic/tortoiz-addons-video.php:125
+msgid "None"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:27
+msgid "Fade In"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:28
+msgid "Fade In Up"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:29
+msgid "Fade In Down"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:30
+msgid "Fade In Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:31
+msgid "Fade In Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:32
+msgid "Zoom In"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:33
+msgid "Zoom In Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:34
+msgid "Zoom In Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:35
+msgid "Zoom In Down"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:36
+msgid "Zoom In Up"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:37
+msgid "Bounce In"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:38
+msgid "Bounce In Down"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:39
+msgid "Bounce In Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:40
+msgid "Bounce In Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:41
+msgid "Bounce In Up"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:42
+msgid "Slide In Down"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:43
+msgid "Slide In Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:44
+msgid "Slide In Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:45
+msgid "Slide In Up"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:46
+msgid "Rotate In"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:47
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:48
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:49
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:50
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:51
+msgid "Flip In X"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:52
+msgid "Flip In Y"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:53
+msgid "Light Speed In"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:54
+#: inc/tortoiz-addons-ext-controls.php:61
+msgid "Swing"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:55
+#: widgets/basic/tortoiz-addons-google-map.php:154
+msgid "Bounce"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:56
+msgid "Flash"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:57
+msgid "Pulse"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:58
+msgid "Rubber Band"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:59
+msgid "Shake"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:60
+msgid "Head Shake"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:62
+msgid "Tada"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:63
+msgid "Wobble"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:64
+msgid "Jello"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:65
+msgid "Roll In"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:72
+msgid "Fade Out"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:73
+msgid "Fade Out Up"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:74
+msgid "Fade Out Down"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:75
+msgid "Fade Out Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:76
+msgid "Fade Out Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:77
+msgid "Zoom Out"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:78
+msgid "Zoom Out Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:79
+msgid "Zoom Out Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:80
+msgid "Zoom Out Down"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:81
+msgid "Zoom Out Up"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:82
+msgid "Bounce Out"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:83
+msgid "Bounce Out Down"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:84
+msgid "Bounce Out Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:85
+msgid "Bounce Out Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:86
+msgid "Bounce Out Up"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:87
+msgid "Slide Out Down"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:88
+msgid "Slide Out Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:89
+msgid "Slide Out Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:90
+msgid "Slide Out Up"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:91
+msgid "Rotate Out"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:92
+msgid "Rotate Out Down Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:93
+msgid "Rotate Out Down Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:94
+msgid "Rotate Out Up Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:95
+msgid "Rotate Out Up Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:96
+msgid "Flip Out X"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:97
+msgid "Flip Out Y"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:98
+msgid "Light Speed Out"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:99
+msgid "Roll Out"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:107
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:118
+msgid "Number of Offset"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:129
+msgid "Order by"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:132
+#: widgets/advanced/tortoiz-addons-posts-tab.php:153
+#: widgets/advanced/tortoiz-addons-posts-tab.php:833
+msgid "Date"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:133
+#: widgets/advanced/tortoiz-addons-banner-slider.php:133
+#: widgets/advanced/tortoiz-addons-banner-slider.php:486
+#: widgets/advanced/tortoiz-addons-blogpost.php:585
+#: widgets/advanced/tortoiz-addons-content-slider.php:167
+#: widgets/advanced/tortoiz-addons-content-slider.php:440
+#: widgets/advanced/tortoiz-addons-modal-box.php:148
+#: widgets/advanced/tortoiz-addons-modal-box.php:884
+#: widgets/advanced/tortoiz-addons-particle-layer.php:138
+#: widgets/advanced/tortoiz-addons-particle-layer.php:570
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:421
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:118
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:179
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:315
+#: widgets/basic/tortoiz-addons-accordion.php:164
+#: widgets/basic/tortoiz-addons-content-box.php:202
+#: widgets/basic/tortoiz-addons-content-box.php:842
+#: widgets/basic/tortoiz-addons-counter.php:120
+#: widgets/basic/tortoiz-addons-counter.php:284
+#: widgets/basic/tortoiz-addons-flip-box.php:149
+#: widgets/basic/tortoiz-addons-flip-box.php:229
+#: widgets/basic/tortoiz-addons-flip-box.php:747
+#: widgets/basic/tortoiz-addons-piechart.php:118
+#: widgets/basic/tortoiz-addons-piechart.php:271
+#: widgets/basic/tortoiz-addons-pricing.php:108
+#: widgets/basic/tortoiz-addons-pricing.php:545
+#: widgets/basic/tortoiz-addons-progressbar.php:122
+#: widgets/basic/tortoiz-addons-progressbar.php:279
+#: widgets/basic/tortoiz-addons-title.php:102
+#: widgets/basic/tortoiz-addons-title.php:182
+#: widgets/basic/tortoiz-addons-video.php:144
+#: widgets/basic/tortoiz-addons-video.php:171
+msgid "Title"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:134
+msgid "Author"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:135
+msgid "Modified"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:136
+msgid "Comments"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:144
+msgid "Sort"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:147
+msgid "ASC"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:148
+msgid "DESC"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:159
+msgid "Autoplay"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:161
+#: inc/tortoiz-addons-ext-controls.php:171
+#: inc/tortoiz-addons-ext-controls.php:181
+#: inc/tortoiz-addons-ext-controls.php:191
+#: inc/tortoiz-addons-ext-controls.php:201
+#: inc/tortoiz-addons-ext-controls.php:211
+#: widgets/advanced/tortoiz-addons-banner-slider.php:306
+#: widgets/advanced/tortoiz-addons-banner-slider.php:336
+#: widgets/basic/tortoiz-addons-image-differ.php:196
+#: widgets/basic/tortoiz-addons-image-differ.php:205
+#: widgets/basic/tortoiz-addons-image-differ.php:214
+msgid "On"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:162
+#: inc/tortoiz-addons-ext-controls.php:172
+#: inc/tortoiz-addons-ext-controls.php:182
+#: inc/tortoiz-addons-ext-controls.php:192
+#: inc/tortoiz-addons-ext-controls.php:202
+#: inc/tortoiz-addons-ext-controls.php:212
+#: widgets/advanced/tortoiz-addons-banner-slider.php:307
+#: widgets/advanced/tortoiz-addons-banner-slider.php:337
+#: widgets/basic/tortoiz-addons-image-differ.php:197
+#: widgets/basic/tortoiz-addons-image-differ.php:206
+#: widgets/basic/tortoiz-addons-image-differ.php:215
+msgid "Off"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:169
+msgid "Pause on Hover"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:179
+msgid "Mouse Drag"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:189
+msgid "Touch Drag"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:199
+msgid "Infinity Loop"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:209
+#: widgets/advanced/tortoiz-addons-banner-slider.php:244
+#: widgets/advanced/tortoiz-addons-blogpost.php:352
+#: widgets/advanced/tortoiz-addons-blogpost.php:1236
+#: widgets/advanced/tortoiz-addons-blogpost.php:1335
+#: widgets/advanced/tortoiz-addons-contact-form.php:488
+#: widgets/advanced/tortoiz-addons-content-slider.php:516
+#: widgets/advanced/tortoiz-addons-content-slider.php:615
+#: widgets/advanced/tortoiz-addons-content-slider.php:700
+#: widgets/advanced/tortoiz-addons-countdown.php:163
+#: widgets/advanced/tortoiz-addons-login-form.php:291
+#: widgets/advanced/tortoiz-addons-login-form.php:435
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:468
+#: widgets/advanced/tortoiz-addons-modal-box.php:491
+#: widgets/advanced/tortoiz-addons-modal-box.php:782
+#: widgets/advanced/tortoiz-addons-modal-box.php:964
+#: widgets/advanced/tortoiz-addons-modal-box.php:1053
+#: widgets/advanced/tortoiz-addons-modal-box.php:1154
+#: widgets/advanced/tortoiz-addons-particle-layer.php:525
+#: widgets/advanced/tortoiz-addons-portfolio.php:379
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:307
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:332
+#: widgets/advanced/tortoiz-addons-posts-tab.php:310
+#: widgets/advanced/tortoiz-addons-posts-tab.php:436
+#: widgets/advanced/tortoiz-addons-posts-tab.php:807
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:374
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:470
+#: widgets/advanced/tortoiz-addons-search-form.php:426
+#: widgets/basic/tortoiz-addons-content-box.php:705
+#: widgets/basic/tortoiz-addons-counter.php:259
+#: widgets/basic/tortoiz-addons-dynamic-button.php:336
+#: widgets/basic/tortoiz-addons-fancytext.php:214
+#: widgets/basic/tortoiz-addons-flip-box.php:465
+#: widgets/basic/tortoiz-addons-pricing.php:647
+#: widgets/basic/tortoiz-addons-pricing.php:820
+#: widgets/basic/tortoiz-addons-progressbar.php:348
+#: widgets/basic/tortoiz-addons-progressbar.php:448
+#: widgets/basic/tortoiz-addons-social-icons.php:524
+#: widgets/basic/tortoiz-addons-table.php:629
+#: widgets/basic/tortoiz-addons-table.php:848
+#: widgets/basic/tortoiz-addons-title.php:257
+#: widgets/basic/tortoiz-addons-title.php:395
+#: widgets/basic/tortoiz-addons-title.php:483
+#: widgets/basic/tortoiz-addons-user-counter.php:170
+#: widgets/basic/tortoiz-addons-visit-counter.php:169
+msgid "Center"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:223
+msgid "Dots"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:225
+#: inc/tortoiz-addons-ext-controls.php:235
+#: widgets/advanced/tortoiz-addons-countdown.php:183
+#: widgets/advanced/tortoiz-addons-posts-tab.php:155
+#: widgets/advanced/tortoiz-addons-posts-tab.php:164
+#: widgets/basic/tortoiz-addons-fancytext.php:282
+msgid "Show"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:226
+#: inc/tortoiz-addons-ext-controls.php:236
+#: widgets/advanced/tortoiz-addons-countdown.php:184
+#: widgets/advanced/tortoiz-addons-posts-tab.php:156
+#: widgets/advanced/tortoiz-addons-posts-tab.php:165
+#: widgets/basic/tortoiz-addons-fancytext.php:283
+msgid "Hide"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:233
+#: inc/tortoiz-addons-ext-controls.php:545
+msgid "Navigation"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:245
+#: widgets/basic/tortoiz-addons-fancytext.php:244
+msgid "Delay"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:256
+msgid "Slide Animation In"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:268
+msgid "Slide Animation Out"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:282
+#: widgets/advanced/tortoiz-addons-banner-slider.php:344
+msgid "Speed"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:300
+#: widgets/basic/tortoiz-addons-dynamic-button.php:104
+msgid "Hover Effects"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:304
+#: widgets/basic/tortoiz-addons-dynamic-button.php:108
+msgid "Icon Right Move"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:305
+#: widgets/basic/tortoiz-addons-dynamic-button.php:109
+msgid "Icon Right Moving"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:306
+#: widgets/basic/tortoiz-addons-dynamic-button.php:110
+msgid "Icon Right Bouncing"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:307
+#: widgets/basic/tortoiz-addons-dynamic-button.php:111
+msgid "Icon Left Move"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:308
+#: widgets/basic/tortoiz-addons-dynamic-button.php:112
+msgid "Icon Left Moving"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:309
+#: widgets/basic/tortoiz-addons-dynamic-button.php:113
+msgid "Icon Left Bouncing"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:310
+#: widgets/basic/tortoiz-addons-dynamic-button.php:114
+msgid "Icon Zooming"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:318
+#: widgets/advanced/tortoiz-addons-blogpost.php:224
+#: widgets/advanced/tortoiz-addons-news-ticker.php:195
+#: widgets/basic/tortoiz-addons-dynamic-button.php:173
+msgid "Label"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:320
+#: widgets/basic/tortoiz-addons-table.php:118
+msgid "Enter Text"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:328
+msgid "Tooltip text"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:330
+msgid "Enter Tooltip Text"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:338
+#: widgets/advanced/tortoiz-addons-portfolio.php:204
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:140
+#: widgets/basic/tortoiz-addons-content-box.php:230
+#: widgets/basic/tortoiz-addons-dynamic-button.php:185
+#: widgets/basic/tortoiz-addons-flip-box.php:251
+#: widgets/basic/tortoiz-addons-social-icons.php:113
+#: widgets/basic/tortoiz-addons-team.php:157
+msgid "Link"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:340
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:135
+#: widgets/advanced/tortoiz-addons-portfolio.php:206
+#: widgets/basic/tortoiz-addons-content-box.php:232
+#: widgets/basic/tortoiz-addons-dynamic-button.php:190
+#: widgets/basic/tortoiz-addons-flip-box.php:253
+#: widgets/basic/tortoiz-addons-social-icons.php:115
+#: widgets/basic/tortoiz-addons-team.php:159
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:350
+#: widgets/advanced/tortoiz-addons-posts-tab.php:129
+#: widgets/basic/tortoiz-addons-accordion.php:129
+#: widgets/basic/tortoiz-addons-content-box.php:160
+#: widgets/basic/tortoiz-addons-content-box.php:176
+#: widgets/basic/tortoiz-addons-content-box.php:436
+#: widgets/basic/tortoiz-addons-content-box.php:563
+#: widgets/basic/tortoiz-addons-counter.php:146
+#: widgets/basic/tortoiz-addons-counter.php:431
+#: widgets/basic/tortoiz-addons-dynamic-button.php:199
+#: widgets/basic/tortoiz-addons-flip-box.php:111
+#: widgets/basic/tortoiz-addons-flip-box.php:125
+#: widgets/basic/tortoiz-addons-flip-box.php:191
+#: widgets/basic/tortoiz-addons-flip-box.php:205
+#: widgets/basic/tortoiz-addons-pricing.php:228
+#: widgets/basic/tortoiz-addons-social-icons.php:105
+#: widgets/basic/tortoiz-addons-table.php:125
+#: widgets/basic/tortoiz-addons-table.php:298
+#: widgets/basic/tortoiz-addons-team.php:149
+#: widgets/basic/tortoiz-addons-video.php:155
+msgid "Icon"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:357
+#: widgets/advanced/tortoiz-addons-posts-tab.php:196
+#: widgets/basic/tortoiz-addons-accordion.php:145
+#: widgets/basic/tortoiz-addons-dynamic-button.php:206
+#: widgets/basic/tortoiz-addons-pricing.php:934
+#: widgets/basic/tortoiz-addons-table.php:132
+#: widgets/basic/tortoiz-addons-table.php:308
+msgid "Icon Position"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:360
+#: widgets/advanced/tortoiz-addons-banner-slider.php:240
+#: widgets/advanced/tortoiz-addons-blogpost.php:348
+#: widgets/advanced/tortoiz-addons-blogpost.php:1232
+#: widgets/advanced/tortoiz-addons-blogpost.php:1331
+#: widgets/advanced/tortoiz-addons-contact-form.php:484
+#: widgets/advanced/tortoiz-addons-content-slider.php:512
+#: widgets/advanced/tortoiz-addons-content-slider.php:611
+#: widgets/advanced/tortoiz-addons-content-slider.php:696
+#: widgets/advanced/tortoiz-addons-countdown.php:159
+#: widgets/advanced/tortoiz-addons-login-form.php:287
+#: widgets/advanced/tortoiz-addons-login-form.php:431
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:464
+#: widgets/advanced/tortoiz-addons-modal-box.php:487
+#: widgets/advanced/tortoiz-addons-modal-box.php:778
+#: widgets/advanced/tortoiz-addons-modal-box.php:960
+#: widgets/advanced/tortoiz-addons-modal-box.php:1049
+#: widgets/advanced/tortoiz-addons-modal-box.php:1150
+#: widgets/advanced/tortoiz-addons-news-ticker.php:150
+#: widgets/advanced/tortoiz-addons-particle-layer.php:521
+#: widgets/advanced/tortoiz-addons-portfolio.php:375
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:303
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:328
+#: widgets/advanced/tortoiz-addons-posts-tab.php:199
+#: widgets/advanced/tortoiz-addons-posts-tab.php:306
+#: widgets/advanced/tortoiz-addons-posts-tab.php:432
+#: widgets/advanced/tortoiz-addons-posts-tab.php:803
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:284
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:370
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:466
+#: widgets/advanced/tortoiz-addons-search-form.php:422
+#: widgets/basic/tortoiz-addons-accordion.php:148
+#: widgets/basic/tortoiz-addons-content-box.php:139
+#: widgets/basic/tortoiz-addons-content-box.php:701
+#: widgets/basic/tortoiz-addons-counter.php:255
+#: widgets/basic/tortoiz-addons-dynamic-button.php:209
+#: widgets/basic/tortoiz-addons-dynamic-button.php:332
+#: widgets/basic/tortoiz-addons-fancytext.php:210
+#: widgets/basic/tortoiz-addons-flip-box.php:461
+#: widgets/basic/tortoiz-addons-pricing.php:188
+#: widgets/basic/tortoiz-addons-pricing.php:643
+#: widgets/basic/tortoiz-addons-pricing.php:816
+#: widgets/basic/tortoiz-addons-pricing.php:937
+#: widgets/basic/tortoiz-addons-progressbar.php:344
+#: widgets/basic/tortoiz-addons-progressbar.php:444
+#: widgets/basic/tortoiz-addons-social-icons.php:520
+#: widgets/basic/tortoiz-addons-table.php:625
+#: widgets/basic/tortoiz-addons-table.php:844
+#: widgets/basic/tortoiz-addons-title.php:253
+#: widgets/basic/tortoiz-addons-title.php:391
+#: widgets/basic/tortoiz-addons-title.php:479
+#: widgets/basic/tortoiz-addons-user-counter.php:166
+#: widgets/basic/tortoiz-addons-visit-counter.php:165
+msgid "Left"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:361
+#: widgets/advanced/tortoiz-addons-banner-slider.php:248
+#: widgets/advanced/tortoiz-addons-blogpost.php:356
+#: widgets/advanced/tortoiz-addons-blogpost.php:1240
+#: widgets/advanced/tortoiz-addons-blogpost.php:1339
+#: widgets/advanced/tortoiz-addons-contact-form.php:492
+#: widgets/advanced/tortoiz-addons-content-slider.php:520
+#: widgets/advanced/tortoiz-addons-content-slider.php:619
+#: widgets/advanced/tortoiz-addons-content-slider.php:704
+#: widgets/advanced/tortoiz-addons-countdown.php:167
+#: widgets/advanced/tortoiz-addons-login-form.php:295
+#: widgets/advanced/tortoiz-addons-login-form.php:439
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:472
+#: widgets/advanced/tortoiz-addons-modal-box.php:495
+#: widgets/advanced/tortoiz-addons-modal-box.php:786
+#: widgets/advanced/tortoiz-addons-modal-box.php:968
+#: widgets/advanced/tortoiz-addons-modal-box.php:1057
+#: widgets/advanced/tortoiz-addons-modal-box.php:1158
+#: widgets/advanced/tortoiz-addons-news-ticker.php:151
+#: widgets/advanced/tortoiz-addons-particle-layer.php:529
+#: widgets/advanced/tortoiz-addons-portfolio.php:383
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:311
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:336
+#: widgets/advanced/tortoiz-addons-posts-tab.php:200
+#: widgets/advanced/tortoiz-addons-posts-tab.php:314
+#: widgets/advanced/tortoiz-addons-posts-tab.php:440
+#: widgets/advanced/tortoiz-addons-posts-tab.php:811
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:282
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:378
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:382
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:474
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:478
+#: widgets/advanced/tortoiz-addons-search-form.php:430
+#: widgets/basic/tortoiz-addons-accordion.php:149
+#: widgets/basic/tortoiz-addons-content-box.php:143
+#: widgets/basic/tortoiz-addons-content-box.php:709
+#: widgets/basic/tortoiz-addons-counter.php:263
+#: widgets/basic/tortoiz-addons-dynamic-button.php:210
+#: widgets/basic/tortoiz-addons-dynamic-button.php:340
+#: widgets/basic/tortoiz-addons-fancytext.php:218
+#: widgets/basic/tortoiz-addons-flip-box.php:469
+#: widgets/basic/tortoiz-addons-pricing.php:192
+#: widgets/basic/tortoiz-addons-pricing.php:651
+#: widgets/basic/tortoiz-addons-pricing.php:824
+#: widgets/basic/tortoiz-addons-pricing.php:938
+#: widgets/basic/tortoiz-addons-progressbar.php:352
+#: widgets/basic/tortoiz-addons-progressbar.php:452
+#: widgets/basic/tortoiz-addons-social-icons.php:528
+#: widgets/basic/tortoiz-addons-table.php:633
+#: widgets/basic/tortoiz-addons-table.php:852
+#: widgets/basic/tortoiz-addons-title.php:261
+#: widgets/basic/tortoiz-addons-title.php:399
+#: widgets/basic/tortoiz-addons-title.php:487
+#: widgets/basic/tortoiz-addons-user-counter.php:174
+#: widgets/basic/tortoiz-addons-visit-counter.php:173
+msgid "Right"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:372
+#: widgets/advanced/tortoiz-addons-posts-tab.php:209
+#: widgets/basic/tortoiz-addons-dynamic-button.php:221
+#: widgets/basic/tortoiz-addons-pricing.php:946
+#: widgets/basic/tortoiz-addons-table.php:452
+#: widgets/basic/tortoiz-addons-table.php:675
+msgid "Icon Spacing"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:393
+msgid "Tooptip Styles"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:429
+#: inc/tortoiz-addons-ext-controls.php:752
+#: inc/tortoiz-addons-ext-controls.php:808
+#: inc/tortoiz-addons-ext-controls.php:949
+#: inc/tortoiz-addons-ext-controls.php:1005
+#: widgets/advanced/tortoiz-addons-banner-slider.php:494
+#: widgets/advanced/tortoiz-addons-banner-slider.php:567
+#: widgets/advanced/tortoiz-addons-banner-slider.php:608
+#: widgets/advanced/tortoiz-addons-banner-slider.php:681
+#: widgets/advanced/tortoiz-addons-blogpost.php:527
+#: widgets/advanced/tortoiz-addons-blogpost.php:627
+#: widgets/advanced/tortoiz-addons-blogpost.php:654
+#: widgets/advanced/tortoiz-addons-content-slider.php:448
+#: widgets/advanced/tortoiz-addons-content-slider.php:553
+#: widgets/advanced/tortoiz-addons-content-slider.php:652
+#: widgets/advanced/tortoiz-addons-countdown.php:381
+#: widgets/advanced/tortoiz-addons-countdown.php:440
+#: widgets/advanced/tortoiz-addons-countdown.php:496
+#: widgets/advanced/tortoiz-addons-login-form.php:272
+#: widgets/advanced/tortoiz-addons-modal-box.php:376
+#: widgets/advanced/tortoiz-addons-modal-box.php:629
+#: widgets/advanced/tortoiz-addons-modal-box.php:697
+#: widgets/advanced/tortoiz-addons-modal-box.php:896
+#: widgets/advanced/tortoiz-addons-modal-box.php:1005
+#: widgets/advanced/tortoiz-addons-news-ticker.php:203
+#: widgets/advanced/tortoiz-addons-news-ticker.php:315
+#: widgets/advanced/tortoiz-addons-news-ticker.php:335
+#: widgets/advanced/tortoiz-addons-news-ticker.php:444
+#: widgets/advanced/tortoiz-addons-particle-layer.php:581
+#: widgets/advanced/tortoiz-addons-particle-layer.php:657
+#: widgets/advanced/tortoiz-addons-particle-layer.php:701
+#: widgets/advanced/tortoiz-addons-particle-layer.php:777
+#: widgets/advanced/tortoiz-addons-portfolio.php:512
+#: widgets/advanced/tortoiz-addons-portfolio.php:551
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:470
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:489
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:675
+#: widgets/advanced/tortoiz-addons-posts-tab.php:488
+#: widgets/advanced/tortoiz-addons-posts-tab.php:519
+#: widgets/advanced/tortoiz-addons-posts-tab.php:749
+#: widgets/advanced/tortoiz-addons-posts-tab.php:777
+#: widgets/advanced/tortoiz-addons-posts-tab.php:844
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:323
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:422
+#: widgets/advanced/tortoiz-addons-review-carousel.php:347
+#: widgets/advanced/tortoiz-addons-review-carousel.php:424
+#: widgets/advanced/tortoiz-addons-review-carousel.php:493
+#: widgets/advanced/tortoiz-addons-review-carousel.php:562
+#: widgets/advanced/tortoiz-addons-search-form.php:253
+#: widgets/advanced/tortoiz-addons-search-form.php:297
+#: widgets/basic/tortoiz-addons-accordion.php:347
+#: widgets/basic/tortoiz-addons-accordion.php:409
+#: widgets/basic/tortoiz-addons-accordion.php:491
+#: widgets/basic/tortoiz-addons-content-box.php:980
+#: widgets/basic/tortoiz-addons-counter.php:295
+#: widgets/basic/tortoiz-addons-counter.php:369
+#: widgets/basic/tortoiz-addons-flip-box.php:764
+#: widgets/basic/tortoiz-addons-flip-box.php:830
+#: widgets/basic/tortoiz-addons-flip-box.php:915
+#: widgets/basic/tortoiz-addons-flip-box.php:961
+#: widgets/basic/tortoiz-addons-image-differ.php:367
+#: widgets/basic/tortoiz-addons-piechart.php:291
+#: widgets/basic/tortoiz-addons-piechart.php:368
+#: widgets/basic/tortoiz-addons-pricing.php:217
+#: widgets/basic/tortoiz-addons-pricing.php:556
+#: widgets/basic/tortoiz-addons-pricing.php:683
+#: widgets/basic/tortoiz-addons-pricing.php:960
+#: widgets/basic/tortoiz-addons-pricing.php:1055
+#: widgets/basic/tortoiz-addons-progressbar.php:287
+#: widgets/basic/tortoiz-addons-progressbar.php:380
+#: widgets/basic/tortoiz-addons-table.php:157
+#: widgets/basic/tortoiz-addons-table.php:185
+#: widgets/basic/tortoiz-addons-table.php:334
+#: widgets/basic/tortoiz-addons-table.php:362
+#: widgets/basic/tortoiz-addons-table.php:508
+#: widgets/basic/tortoiz-addons-table.php:569
+#: widgets/basic/tortoiz-addons-table.php:726
+#: widgets/basic/tortoiz-addons-table.php:779
+#: widgets/basic/tortoiz-addons-team.php:423
+#: widgets/basic/tortoiz-addons-team.php:492
+#: widgets/basic/tortoiz-addons-team.php:561
+#: widgets/basic/tortoiz-addons-user-counter.php:203
+#: widgets/basic/tortoiz-addons-user-counter.php:262
+#: widgets/basic/tortoiz-addons-video.php:182
+#: widgets/basic/tortoiz-addons-visit-counter.php:202
+#: widgets/basic/tortoiz-addons-visit-counter.php:261
+msgid "Text Color"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:443
+msgid "Background Color"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:458
+msgid "Distance"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:485
+#: inc/tortoiz-addons-ext-controls.php:875
+#: widgets/advanced/tortoiz-addons-banner-slider.php:774
+#: widgets/advanced/tortoiz-addons-banner-slider.php:857
+#: widgets/advanced/tortoiz-addons-blogpost.php:315
+#: widgets/advanced/tortoiz-addons-blogpost.php:715
+#: widgets/advanced/tortoiz-addons-blogpost.php:1181
+#: widgets/advanced/tortoiz-addons-blogpost.php:1272
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:350
+#: widgets/advanced/tortoiz-addons-contact-form.php:230
+#: widgets/advanced/tortoiz-addons-contact-form.php:368
+#: widgets/advanced/tortoiz-addons-contact-form.php:426
+#: widgets/advanced/tortoiz-addons-content-slider.php:384
+#: widgets/advanced/tortoiz-addons-countdown.php:311
+#: widgets/advanced/tortoiz-addons-login-form.php:189
+#: widgets/advanced/tortoiz-addons-login-form.php:373
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:239
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:399
+#: widgets/advanced/tortoiz-addons-modal-box.php:295
+#: widgets/advanced/tortoiz-addons-modal-box.php:737
+#: widgets/advanced/tortoiz-addons-modal-box.php:1110
+#: widgets/advanced/tortoiz-addons-news-ticker.php:262
+#: widgets/advanced/tortoiz-addons-news-ticker.php:396
+#: widgets/advanced/tortoiz-addons-particle-layer.php:867
+#: widgets/advanced/tortoiz-addons-particle-layer.php:947
+#: widgets/advanced/tortoiz-addons-portfolio.php:324
+#: widgets/advanced/tortoiz-addons-portfolio.php:441
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:252
+#: widgets/advanced/tortoiz-addons-posts-tab.php:255
+#: widgets/advanced/tortoiz-addons-posts-tab.php:384
+#: widgets/advanced/tortoiz-addons-posts-tab.php:690
+#: widgets/advanced/tortoiz-addons-review-carousel.php:297
+#: widgets/advanced/tortoiz-addons-search-form.php:162
+#: widgets/advanced/tortoiz-addons-search-form.php:350
+#: widgets/basic/tortoiz-addons-accordion.php:268
+#: widgets/basic/tortoiz-addons-content-box.php:645
+#: widgets/basic/tortoiz-addons-content-box.php:805
+#: widgets/basic/tortoiz-addons-content-box.php:1026
+#: widgets/basic/tortoiz-addons-counter.php:493
+#: widgets/basic/tortoiz-addons-dynamic-button.php:292
+#: widgets/basic/tortoiz-addons-flip-box.php:446
+#: widgets/basic/tortoiz-addons-flip-box.php:587
+#: widgets/basic/tortoiz-addons-flip-box.php:706
+#: widgets/basic/tortoiz-addons-image-differ.php:437
+#: widgets/basic/tortoiz-addons-pricing.php:514
+#: widgets/basic/tortoiz-addons-pricing.php:609
+#: widgets/basic/tortoiz-addons-pricing.php:765
+#: widgets/basic/tortoiz-addons-pricing.php:856
+#: widgets/basic/tortoiz-addons-social-icons.php:478
+#: widgets/basic/tortoiz-addons-team.php:332
+#: widgets/basic/tortoiz-addons-team.php:757
+#: widgets/basic/tortoiz-addons-video.php:466
+msgid "Radius"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:506
+#: widgets/advanced/tortoiz-addons-banner-slider.php:446
+#: widgets/advanced/tortoiz-addons-banner-slider.php:792
+#: widgets/advanced/tortoiz-addons-banner-slider.php:875
+#: widgets/advanced/tortoiz-addons-blogpost.php:559
+#: widgets/advanced/tortoiz-addons-blogpost.php:734
+#: widgets/advanced/tortoiz-addons-blogpost.php:900
+#: widgets/advanced/tortoiz-addons-blogpost.php:1192
+#: widgets/advanced/tortoiz-addons-blogpost.php:1291
+#: widgets/advanced/tortoiz-addons-contact-form.php:249
+#: widgets/advanced/tortoiz-addons-contact-form.php:444
+#: widgets/advanced/tortoiz-addons-content-slider.php:396
+#: widgets/advanced/tortoiz-addons-countdown.php:329
+#: widgets/advanced/tortoiz-addons-login-form.php:208
+#: widgets/advanced/tortoiz-addons-login-form.php:391
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:258
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:417
+#: widgets/advanced/tortoiz-addons-modal-box.php:465
+#: widgets/advanced/tortoiz-addons-modal-box.php:563
+#: widgets/advanced/tortoiz-addons-modal-box.php:756
+#: widgets/advanced/tortoiz-addons-modal-box.php:837
+#: widgets/advanced/tortoiz-addons-modal-box.php:1128
+#: widgets/advanced/tortoiz-addons-news-ticker.php:273
+#: widgets/advanced/tortoiz-addons-news-ticker.php:407
+#: widgets/advanced/tortoiz-addons-particle-layer.php:485
+#: widgets/advanced/tortoiz-addons-particle-layer.php:551
+#: widgets/advanced/tortoiz-addons-particle-layer.php:885
+#: widgets/advanced/tortoiz-addons-particle-layer.php:965
+#: widgets/advanced/tortoiz-addons-portfolio.php:335
+#: widgets/advanced/tortoiz-addons-portfolio.php:452
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:263
+#: widgets/advanced/tortoiz-addons-posts-tab.php:266
+#: widgets/advanced/tortoiz-addons-posts-tab.php:395
+#: widgets/advanced/tortoiz-addons-review-carousel.php:286
+#: widgets/advanced/tortoiz-addons-search-form.php:180
+#: widgets/advanced/tortoiz-addons-search-form.php:368
+#: widgets/basic/tortoiz-addons-accordion.php:456
+#: widgets/basic/tortoiz-addons-accordion.php:540
+#: widgets/basic/tortoiz-addons-content-box.php:816
+#: widgets/basic/tortoiz-addons-content-box.php:1045
+#: widgets/basic/tortoiz-addons-counter.php:504
+#: widgets/basic/tortoiz-addons-dynamic-button.php:310
+#: widgets/basic/tortoiz-addons-flip-box.php:321
+#: widgets/basic/tortoiz-addons-flip-box.php:386
+#: widgets/basic/tortoiz-addons-flip-box.php:598
+#: widgets/basic/tortoiz-addons-flip-box.php:717
+#: widgets/basic/tortoiz-addons-flip-box.php:940
+#: widgets/basic/tortoiz-addons-flip-box.php:986
+#: widgets/basic/tortoiz-addons-image-differ.php:418
+#: widgets/basic/tortoiz-addons-pricing.php:526
+#: widgets/basic/tortoiz-addons-pricing.php:621
+#: widgets/basic/tortoiz-addons-pricing.php:776
+#: widgets/basic/tortoiz-addons-pricing.php:875
+#: widgets/basic/tortoiz-addons-pricing.php:1001
+#: widgets/basic/tortoiz-addons-progressbar.php:420
+#: widgets/basic/tortoiz-addons-table.php:602
+#: widgets/basic/tortoiz-addons-table.php:821
+#: widgets/basic/tortoiz-addons-team.php:389
+msgid "Padding"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:530
+msgid "Dots Color"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:559
+#: inc/tortoiz-addons-ext-controls.php:746
+#: inc/tortoiz-addons-ext-controls.php:942
+#: widgets/advanced/tortoiz-addons-blogpost.php:621
+#: widgets/advanced/tortoiz-addons-blogpost.php:835
+#: widgets/advanced/tortoiz-addons-blogpost.php:975
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:154
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:364
+#: widgets/advanced/tortoiz-addons-modal-box.php:622
+#: widgets/advanced/tortoiz-addons-news-ticker.php:309
+#: widgets/advanced/tortoiz-addons-portfolio.php:505
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:360
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:464
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:568
+#: widgets/advanced/tortoiz-addons-posts-tab.php:742
+#: widgets/advanced/tortoiz-addons-search-form.php:246
+#: widgets/basic/tortoiz-addons-accordion.php:341
+#: widgets/basic/tortoiz-addons-content-box.php:381
+#: widgets/basic/tortoiz-addons-google-map.php:224
+#: widgets/basic/tortoiz-addons-pricing.php:418
+#: widgets/basic/tortoiz-addons-social-icons.php:133
+#: widgets/basic/tortoiz-addons-social-icons.php:372
+#: widgets/basic/tortoiz-addons-table.php:150
+#: widgets/basic/tortoiz-addons-table.php:327
+#: widgets/basic/tortoiz-addons-table.php:501
+#: widgets/basic/tortoiz-addons-table.php:719
+#: widgets/basic/tortoiz-addons-team.php:177
+#: widgets/basic/tortoiz-addons-team.php:650
+#: widgets/basic/tortoiz-addons-transform.php:211
+#: widgets/basic/tortoiz-addons-video.php:264
+msgid "Normal"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:566
+#: inc/tortoiz-addons-ext-controls.php:609
+#: widgets/basic/tortoiz-addons-image-differ.php:271
+msgid "Arrow Color"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:602
+#: inc/tortoiz-addons-ext-controls.php:802
+#: widgets/advanced/tortoiz-addons-blogpost.php:648
+#: widgets/advanced/tortoiz-addons-blogpost.php:854
+#: widgets/advanced/tortoiz-addons-blogpost.php:1035
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:186
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:414
+#: widgets/advanced/tortoiz-addons-modal-box.php:690
+#: widgets/advanced/tortoiz-addons-news-ticker.php:329
+#: widgets/advanced/tortoiz-addons-portfolio.php:544
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:386
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:483
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:587
+#: widgets/advanced/tortoiz-addons-posts-tab.php:770
+#: widgets/advanced/tortoiz-addons-search-form.php:290
+#: widgets/basic/tortoiz-addons-content-box.php:517
+#: widgets/basic/tortoiz-addons-google-map.php:241
+#: widgets/basic/tortoiz-addons-pricing.php:476
+#: widgets/basic/tortoiz-addons-social-icons.php:177
+#: widgets/basic/tortoiz-addons-social-icons.php:423
+#: widgets/basic/tortoiz-addons-table.php:178
+#: widgets/basic/tortoiz-addons-table.php:355
+#: widgets/basic/tortoiz-addons-table.php:562
+#: widgets/basic/tortoiz-addons-table.php:772
+#: widgets/basic/tortoiz-addons-team.php:221
+#: widgets/basic/tortoiz-addons-team.php:701
+#: widgets/basic/tortoiz-addons-transform.php:414
+#: widgets/basic/tortoiz-addons-video.php:316
+msgid "Hover"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:638
+msgid "Font Family"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:650
+msgid "Nav Top (%)"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:667
+msgid "Nav Next Radius"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:688
+msgid "Nav Prev Radius"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:840
+#: inc/tortoiz-addons-ext-controls.php:1025
+#: widgets/advanced/tortoiz-addons-blogpost.php:1070
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:201
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:429
+#: widgets/advanced/tortoiz-addons-modal-box.php:715
+#: widgets/advanced/tortoiz-addons-portfolio.php:571
+#: widgets/advanced/tortoiz-addons-search-form.php:315
+#: widgets/basic/tortoiz-addons-content-box.php:532
+#: widgets/basic/tortoiz-addons-content-box.php:583
+#: widgets/basic/tortoiz-addons-pricing.php:491
+#: widgets/basic/tortoiz-addons-social-icons.php:204
+#: widgets/basic/tortoiz-addons-social-icons.php:456
+#: widgets/basic/tortoiz-addons-table.php:587
+#: widgets/basic/tortoiz-addons-table.php:806
+#: widgets/basic/tortoiz-addons-team.php:248
+#: widgets/basic/tortoiz-addons-team.php:735
+#: widgets/basic/tortoiz-addons-video.php:358
+msgid "Border Color"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:886
+#: widgets/advanced/tortoiz-addons-blogpost.php:326
+#: widgets/advanced/tortoiz-addons-blogpost.php:677
+#: widgets/advanced/tortoiz-addons-blogpost.php:752
+#: widgets/advanced/tortoiz-addons-blogpost.php:918
+#: widgets/advanced/tortoiz-addons-blogpost.php:1210
+#: widgets/advanced/tortoiz-addons-blogpost.php:1309
+#: widgets/advanced/tortoiz-addons-contact-form.php:267
+#: widgets/advanced/tortoiz-addons-contact-form.php:379
+#: widgets/advanced/tortoiz-addons-contact-form.php:462
+#: widgets/advanced/tortoiz-addons-content-slider.php:414
+#: widgets/advanced/tortoiz-addons-countdown.php:347
+#: widgets/advanced/tortoiz-addons-login-form.php:226
+#: widgets/advanced/tortoiz-addons-login-form.php:409
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:276
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:442
+#: widgets/advanced/tortoiz-addons-modal-box.php:855
+#: widgets/advanced/tortoiz-addons-portfolio.php:353
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:281
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:608
+#: widgets/advanced/tortoiz-addons-posts-tab.php:284
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:395
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:491
+#: widgets/advanced/tortoiz-addons-review-carousel.php:390
+#: widgets/advanced/tortoiz-addons-review-carousel.php:459
+#: widgets/advanced/tortoiz-addons-review-carousel.php:528
+#: widgets/advanced/tortoiz-addons-review-carousel.php:587
+#: widgets/advanced/tortoiz-addons-search-form.php:400
+#: widgets/basic/tortoiz-addons-accordion.php:279
+#: widgets/basic/tortoiz-addons-content-box.php:885
+#: widgets/basic/tortoiz-addons-content-box.php:1063
+#: widgets/basic/tortoiz-addons-counter.php:335
+#: widgets/basic/tortoiz-addons-counter.php:412
+#: widgets/basic/tortoiz-addons-flip-box.php:802
+#: widgets/basic/tortoiz-addons-flip-box.php:868
+#: widgets/basic/tortoiz-addons-piechart.php:334
+#: widgets/basic/tortoiz-addons-pricing.php:794
+#: widgets/basic/tortoiz-addons-pricing.php:893
+#: widgets/basic/tortoiz-addons-social-icons.php:498
+#: widgets/basic/tortoiz-addons-team.php:777
+#: widgets/basic/tortoiz-addons-user-counter.php:305
+#: widgets/basic/tortoiz-addons-video.php:228
+#: widgets/basic/tortoiz-addons-visit-counter.php:304
+msgid "Margin"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:925
+msgid "Placeholder Color"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:960
+#: inc/tortoiz-addons-ext-controls.php:1015
+#: widgets/advanced/tortoiz-addons-blogpost.php:992
+#: widgets/advanced/tortoiz-addons-blogpost.php:1052
+#: widgets/advanced/tortoiz-addons-blogpost.php:1099
+#: widgets/advanced/tortoiz-addons-portfolio.php:523
+#: widgets/advanced/tortoiz-addons-portfolio.php:561
+#: widgets/basic/tortoiz-addons-social-icons.php:150
+#: widgets/basic/tortoiz-addons-social-icons.php:194
+#: widgets/basic/tortoiz-addons-team.php:194
+#: widgets/basic/tortoiz-addons-team.php:238
+#: widgets/basic/tortoiz-addons-video.php:272
+#: widgets/basic/tortoiz-addons-video.php:324
+msgid "Background"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-controls.php:998
+msgid "Focus"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-func.php:70
+msgid "Tortoiz Basic Widgets"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-func.php:76
+msgid "Tortoiz Advanced Widgets"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:28
+msgid "First name too short! Must be contain 3-32 characters."
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:30
+msgid "First name too long! Must be contain 3-32 characters."
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:34
+msgid "Special character(s) not allowed in your first name!"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:41
+msgid "Last name too short! Must be contain 3-32 characters."
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:43
+msgid "Last name too long! Must be contain 3-32 characters."
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:47
+msgid "Special character(s) not allowed in your last name!"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:53 inc/tortoiz-addons-ext-hooks.php:133
+#: inc/tortoiz-addons-ext-hooks.php:186
+msgid "Invalid email!"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:63
+msgid "Invalid phone number!"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:120
+msgid "Name can't be empty!"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:122
+msgid "Name too short! Must be contain 3-32 characters."
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:124
+msgid "Name too long! Must be contain 3-32 characters."
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:128
+msgid "Special character(s) not allowed in your name!"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:139
+msgid "Subject can't be empty!"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:141
+msgid "Subject too short! Must be contain 3-200 characters."
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:143
+msgid "Subject too long! Must be contain 3-200 characters."
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:147
+msgid "Invalid subject!"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:153
+msgid "Message can't be empty!"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:155
+msgid "Message too short! Must be contain 3-2000 characters."
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:161
+msgid "Invalid message!"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:191
+msgid "Password can't be empty!"
+msgstr ""
+
+#: inc/tortoiz-addons-ext-hooks.php:201
+msgid "Email and password don't matched!"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:39
+msgid "Tortoiz Banner Slider"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:113
+msgid "Slides"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:123
+#: widgets/advanced/tortoiz-addons-portfolio.php:176
+#: widgets/advanced/tortoiz-addons-review-carousel.php:125
+#: widgets/basic/tortoiz-addons-team.php:136
+#: widgets/basic/tortoiz-addons-transform.php:133
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:136
+#: widgets/advanced/tortoiz-addons-banner-slider.php:178
+#: widgets/advanced/tortoiz-addons-banner-slider.php:211
+#: widgets/advanced/tortoiz-addons-content-slider.php:171
+#: widgets/advanced/tortoiz-addons-content-slider.php:206
+#: widgets/advanced/tortoiz-addons-content-slider.php:238
+#: widgets/advanced/tortoiz-addons-modal-box.php:141
+#: widgets/advanced/tortoiz-addons-modal-box.php:152
+#: widgets/advanced/tortoiz-addons-modal-box.php:166
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:122
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:133
+#: widgets/basic/tortoiz-addons-accordion.php:196
+#: widgets/basic/tortoiz-addons-content-box.php:206
+#: widgets/basic/tortoiz-addons-content-box.php:220
+#: widgets/basic/tortoiz-addons-counter.php:124
+#: widgets/basic/tortoiz-addons-flip-box.php:153
+#: widgets/basic/tortoiz-addons-flip-box.php:164
+#: widgets/basic/tortoiz-addons-flip-box.php:233
+#: widgets/basic/tortoiz-addons-flip-box.php:244
+#: widgets/basic/tortoiz-addons-piechart.php:122
+#: widgets/basic/tortoiz-addons-pricing.php:112
+#: widgets/basic/tortoiz-addons-progressbar.php:126
+#: widgets/basic/tortoiz-addons-table.php:289
+#: widgets/basic/tortoiz-addons-title.php:106
+#: widgets/basic/tortoiz-addons-title.php:143
+#: widgets/basic/tortoiz-addons-title.php:168
+#: widgets/basic/tortoiz-addons-user-counter.php:130
+#: widgets/basic/tortoiz-addons-user-counter.php:141
+#: widgets/basic/tortoiz-addons-video.php:148
+#: widgets/basic/tortoiz-addons-visit-counter.php:121
+#: widgets/basic/tortoiz-addons-visit-counter.php:132
+msgid "You can use HTML."
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:143
+#: widgets/advanced/tortoiz-addons-banner-slider.php:559
+#: widgets/advanced/tortoiz-addons-particle-layer.php:148
+#: widgets/advanced/tortoiz-addons-particle-layer.php:646
+#: widgets/basic/tortoiz-addons-title.php:113
+#: widgets/basic/tortoiz-addons-title.php:286
+msgid "Title Span"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:146
+#: widgets/advanced/tortoiz-addons-particle-layer.php:151
+#: widgets/basic/tortoiz-addons-title.php:116
+msgid "Enter Title Span"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:147
+#: widgets/advanced/tortoiz-addons-particle-layer.php:152
+#: widgets/basic/tortoiz-addons-title.php:117
+msgid "You can use SPAN for multi-color title."
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:153
+#: widgets/advanced/tortoiz-addons-banner-slider.php:185
+#: widgets/advanced/tortoiz-addons-particle-layer.php:158
+#: widgets/advanced/tortoiz-addons-particle-layer.php:182
+#: widgets/basic/tortoiz-addons-fancytext.php:307
+msgid "Selct Tag"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:166
+#: widgets/advanced/tortoiz-addons-particle-layer.php:406
+msgid "Title Animation"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:175
+#: widgets/advanced/tortoiz-addons-banner-slider.php:600
+#: widgets/advanced/tortoiz-addons-content-slider.php:202
+#: widgets/advanced/tortoiz-addons-content-slider.php:545
+#: widgets/advanced/tortoiz-addons-particle-layer.php:171
+#: widgets/advanced/tortoiz-addons-particle-layer.php:690
+#: widgets/basic/tortoiz-addons-title.php:139
+#: widgets/basic/tortoiz-addons-title.php:326
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:200
+#: widgets/advanced/tortoiz-addons-particle-layer.php:416
+msgid "Sub Title Animation"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:209
+#: widgets/advanced/tortoiz-addons-banner-slider.php:673
+#: widgets/advanced/tortoiz-addons-content-slider.php:235
+#: widgets/advanced/tortoiz-addons-content-slider.php:644
+#: widgets/advanced/tortoiz-addons-modal-box.php:162
+#: widgets/advanced/tortoiz-addons-modal-box.php:993
+#: widgets/advanced/tortoiz-addons-particle-layer.php:197
+#: widgets/advanced/tortoiz-addons-particle-layer.php:766
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:129
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:414
+#: widgets/basic/tortoiz-addons-accordion.php:193
+#: widgets/basic/tortoiz-addons-accordion.php:483
+#: widgets/basic/tortoiz-addons-content-box.php:216
+#: widgets/basic/tortoiz-addons-content-box.php:911
+#: widgets/basic/tortoiz-addons-flip-box.php:160
+#: widgets/basic/tortoiz-addons-flip-box.php:240
+#: widgets/basic/tortoiz-addons-flip-box.php:898
+#: widgets/basic/tortoiz-addons-team.php:126
+#: widgets/basic/tortoiz-addons-team.php:553
+#: widgets/basic/tortoiz-addons-title.php:164
+#: widgets/basic/tortoiz-addons-title.php:424
+msgid "Description"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:218
+#: widgets/advanced/tortoiz-addons-particle-layer.php:426
+msgid "Description Animation"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:227
+#: widgets/advanced/tortoiz-addons-particle-layer.php:436
+msgid "Buttons Animation"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:236
+#: widgets/advanced/tortoiz-addons-blogpost.php:344
+#: widgets/advanced/tortoiz-addons-blogpost.php:1228
+#: widgets/advanced/tortoiz-addons-blogpost.php:1327
+#: widgets/advanced/tortoiz-addons-contact-form.php:480
+#: widgets/advanced/tortoiz-addons-content-slider.php:508
+#: widgets/advanced/tortoiz-addons-content-slider.php:607
+#: widgets/advanced/tortoiz-addons-content-slider.php:692
+#: widgets/advanced/tortoiz-addons-countdown.php:155
+#: widgets/advanced/tortoiz-addons-login-form.php:283
+#: widgets/advanced/tortoiz-addons-login-form.php:427
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:460
+#: widgets/advanced/tortoiz-addons-modal-box.php:483
+#: widgets/advanced/tortoiz-addons-modal-box.php:774
+#: widgets/advanced/tortoiz-addons-modal-box.php:956
+#: widgets/advanced/tortoiz-addons-modal-box.php:1045
+#: widgets/advanced/tortoiz-addons-modal-box.php:1146
+#: widgets/advanced/tortoiz-addons-particle-layer.php:517
+#: widgets/advanced/tortoiz-addons-portfolio.php:371
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:324
+#: widgets/advanced/tortoiz-addons-posts-tab.php:302
+#: widgets/advanced/tortoiz-addons-posts-tab.php:428
+#: widgets/advanced/tortoiz-addons-posts-tab.php:799
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:366
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:462
+#: widgets/advanced/tortoiz-addons-search-form.php:418
+#: widgets/basic/tortoiz-addons-content-box.php:697
+#: widgets/basic/tortoiz-addons-counter.php:251
+#: widgets/basic/tortoiz-addons-dynamic-button.php:328
+#: widgets/basic/tortoiz-addons-fancytext.php:206
+#: widgets/basic/tortoiz-addons-flip-box.php:457
+#: widgets/basic/tortoiz-addons-pricing.php:639
+#: widgets/basic/tortoiz-addons-pricing.php:812
+#: widgets/basic/tortoiz-addons-progressbar.php:340
+#: widgets/basic/tortoiz-addons-progressbar.php:440
+#: widgets/basic/tortoiz-addons-social-icons.php:516
+#: widgets/basic/tortoiz-addons-table.php:621
+#: widgets/basic/tortoiz-addons-table.php:840
+#: widgets/basic/tortoiz-addons-title.php:249
+#: widgets/basic/tortoiz-addons-title.php:387
+#: widgets/basic/tortoiz-addons-title.php:475
+#: widgets/basic/tortoiz-addons-user-counter.php:162
+#: widgets/basic/tortoiz-addons-visit-counter.php:161
+msgid "Alignment"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:262
+msgid "Add Slide"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:296
+#: widgets/advanced/tortoiz-addons-content-slider.php:299
+msgid "Slider Settings"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:304
+#: widgets/basic/tortoiz-addons-image-differ.php:194
+#: widgets/basic/tortoiz-addons-team.php:351
+msgid "Overlay"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:334
+msgid "Particular Animation"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:366
+#: widgets/advanced/tortoiz-addons-banner-slider.php:743
+#: widgets/advanced/tortoiz-addons-particle-layer.php:216
+#: widgets/advanced/tortoiz-addons-particle-layer.php:839
+msgid "Primary Button"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:381
+#: widgets/advanced/tortoiz-addons-banner-slider.php:826
+#: widgets/advanced/tortoiz-addons-particle-layer.php:241
+#: widgets/advanced/tortoiz-addons-particle-layer.php:919
+msgid "Secondary Button"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:389
+#: widgets/advanced/tortoiz-addons-particle-layer.php:249
+msgid "Button Spacing"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:413
+#: widgets/advanced/tortoiz-addons-particle-layer.php:454
+msgid "Container"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:421
+#: widgets/advanced/tortoiz-addons-contact-form.php:346
+#: widgets/advanced/tortoiz-addons-content-slider.php:340
+#: widgets/advanced/tortoiz-addons-countdown.php:262
+#: widgets/advanced/tortoiz-addons-portfolio.php:420
+#: widgets/advanced/tortoiz-addons-portfolio.php:628
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:216
+#: widgets/advanced/tortoiz-addons-posts-tab.php:366
+#: widgets/basic/tortoiz-addons-flip-box.php:423
+#: widgets/basic/tortoiz-addons-google-map.php:199
+#: widgets/basic/tortoiz-addons-progressbar.php:184
+#: widgets/basic/tortoiz-addons-social-icons.php:329
+#: widgets/basic/tortoiz-addons-transform.php:163
+#: widgets/basic/tortoiz-addons-video.php:418
+msgid "Height"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:537
+#: widgets/advanced/tortoiz-addons-banner-slider.php:651
+#: widgets/advanced/tortoiz-addons-banner-slider.php:721
+#: widgets/advanced/tortoiz-addons-content-slider.php:494
+#: widgets/advanced/tortoiz-addons-content-slider.php:593
+#: widgets/advanced/tortoiz-addons-modal-box.php:942
+#: widgets/advanced/tortoiz-addons-particle-layer.php:624
+#: widgets/advanced/tortoiz-addons-particle-layer.php:744
+#: widgets/advanced/tortoiz-addons-particle-layer.php:817
+#: widgets/basic/tortoiz-addons-team.php:461
+#: widgets/basic/tortoiz-addons-team.php:530
+#: widgets/basic/tortoiz-addons-title.php:235
+#: widgets/basic/tortoiz-addons-title.php:373
+msgid "Margin Bottom"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-banner-slider.php:909
+#: widgets/advanced/tortoiz-addons-content-slider.php:729
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:694
+#: widgets/advanced/tortoiz-addons-review-carousel.php:606
+msgid "Nav & Dots"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:41
+msgid "Sina Blog Post"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:115
+msgid "Blog Post"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:123
+#: widgets/advanced/tortoiz-addons-contact-form.php:217
+msgid "Layout"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:126
+msgid "Grid"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:127
+msgid "List"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:135
+#: widgets/advanced/tortoiz-addons-portfolio.php:137
+msgid "Number of Column"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:138
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:277
+#: widgets/advanced/tortoiz-addons-content-slider.php:310
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:186
+msgid "1"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:139
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:278
+#: widgets/advanced/tortoiz-addons-content-slider.php:311
+#: widgets/advanced/tortoiz-addons-portfolio.php:140
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:187
+msgid "2"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:140
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:279
+#: widgets/advanced/tortoiz-addons-content-slider.php:312
+#: widgets/advanced/tortoiz-addons-portfolio.php:141
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:188
+msgid "3"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:141
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:280
+#: widgets/advanced/tortoiz-addons-content-slider.php:313
+#: widgets/advanced/tortoiz-addons-portfolio.php:142
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:189
+msgid "4"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:149
+#: widgets/advanced/tortoiz-addons-news-ticker.php:115
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:119
+#: widgets/advanced/tortoiz-addons-posts-tab.php:188
+msgid "Categories"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:159
+msgid "Content Word"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:170
+msgid "Thumb Right"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:172
+#: widgets/advanced/tortoiz-addons-blogpost.php:184
+#: widgets/advanced/tortoiz-addons-blogpost.php:193
+#: widgets/advanced/tortoiz-addons-blogpost.php:202
+#: widgets/advanced/tortoiz-addons-blogpost.php:214
+#: widgets/advanced/tortoiz-addons-blogpost.php:491
+#: widgets/advanced/tortoiz-addons-contact-form.php:118
+#: widgets/advanced/tortoiz-addons-particle-layer.php:374
+#: widgets/advanced/tortoiz-addons-particle-layer.php:383
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:131
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:140
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:149
+#: widgets/advanced/tortoiz-addons-posts-tab.php:173
+msgid "Yes"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:173
+#: widgets/advanced/tortoiz-addons-blogpost.php:185
+#: widgets/advanced/tortoiz-addons-blogpost.php:194
+#: widgets/advanced/tortoiz-addons-blogpost.php:203
+#: widgets/advanced/tortoiz-addons-blogpost.php:215
+#: widgets/advanced/tortoiz-addons-blogpost.php:492
+#: widgets/advanced/tortoiz-addons-contact-form.php:119
+#: widgets/advanced/tortoiz-addons-particle-layer.php:375
+#: widgets/advanced/tortoiz-addons-particle-layer.php:384
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:132
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:141
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:150
+#: widgets/advanced/tortoiz-addons-posts-tab.php:174
+msgid "No"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:182
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:138
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:191
+#: widgets/advanced/tortoiz-addons-blogpost.php:778
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:129
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:511
+msgid "Meta"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:200
+#: widgets/advanced/tortoiz-addons-blogpost.php:944
+msgid "Pagination"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:212
+msgid "Load More"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:226
+#: widgets/basic/tortoiz-addons-dynamic-button.php:175
+msgid "Enter Label"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:244
+#: widgets/advanced/tortoiz-addons-blogpost.php:704
+msgid "Read More"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:260
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:208
+msgid "Post"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:360
+#: widgets/advanced/tortoiz-addons-content-slider.php:524
+#: widgets/advanced/tortoiz-addons-content-slider.php:623
+#: widgets/advanced/tortoiz-addons-content-slider.php:708
+#: widgets/advanced/tortoiz-addons-modal-box.php:972
+#: widgets/advanced/tortoiz-addons-modal-box.php:1061
+#: widgets/basic/tortoiz-addons-content-box.php:713
+#: widgets/basic/tortoiz-addons-title.php:265
+#: widgets/basic/tortoiz-addons-title.php:403
+#: widgets/basic/tortoiz-addons-title.php:491
+msgid "justify"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:372
+#: widgets/advanced/tortoiz-addons-modal-box.php:333
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:349
+#: widgets/basic/tortoiz-addons-image-differ.php:237
+msgid "Overlay Background"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:404
+#: widgets/advanced/tortoiz-addons-particle-layer.php:111
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:147
+#: widgets/basic/tortoiz-addons-pricing.php:208
+#: widgets/basic/tortoiz-addons-pricing.php:919
+#: widgets/basic/tortoiz-addons-table.php:287
+#: widgets/basic/tortoiz-addons-table.php:654
+msgid "Content"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:412
+msgid "Thumb Width (%)"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:438
+msgid "Thumb Height (px)"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:463
+msgid "Content Width (%)"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:489
+msgid "Use content Height"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:501
+msgid "Content Height (px)"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:841
+#: widgets/advanced/tortoiz-addons-blogpost.php:860
+#: widgets/advanced/tortoiz-addons-particle-layer.php:290
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:574
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:593
+msgid "Link Color"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:1082
+msgid "Current"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:1152
+msgid "Spacing"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:1167
+#: widgets/advanced/tortoiz-addons-portfolio.php:291
+#: widgets/advanced/tortoiz-addons-posts-tab.php:236
+#: widgets/basic/tortoiz-addons-dynamic-button.php:266
+#: widgets/basic/tortoiz-addons-image-differ.php:325
+msgid "Min Width"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:1261
+msgid "Load More Button"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-blogpost.php:1439
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:846
+msgid "No Posts found"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:38
+msgid "Tortoiz Brand Carousel"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:113
+msgid "Brand"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:123
+msgid "Choose Logo"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:133
+msgid "Brand Link"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:141
+msgid "Brand Name"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:143
+#: widgets/advanced/tortoiz-addons-review-carousel.php:137
+#: widgets/basic/tortoiz-addons-team.php:110
+msgid "Enter Name"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:144
+msgid "This name will show only item header"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:223
+msgid "Add Logo"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:228
+msgid "Youtube"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:234
+msgid "Behance"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:240
+msgid "Vimeo"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:246
+msgid "Linkedin"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:266
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:175
+#: widgets/advanced/tortoiz-addons-review-carousel.php:218
+msgid "Carousel Settings"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:274
+#: widgets/advanced/tortoiz-addons-content-slider.php:307
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:183
+#: widgets/advanced/tortoiz-addons-review-carousel.php:225
+msgid "Show Item"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:299
+msgid "Brand Box"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:307
+msgid "Logo Padding"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:332
+#: widgets/basic/tortoiz-addons-content-box.php:664
+msgid "Box Padding"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:460
+#: widgets/advanced/tortoiz-addons-content-slider.php:744
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:710
+msgid "Center Item"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-brand-carousel.php:471
+#: widgets/advanced/tortoiz-addons-content-slider.php:755
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:721
+#: widgets/basic/tortoiz-addons-content-box.php:285
+#: widgets/basic/tortoiz-addons-pricing.php:322
+msgid "Scale"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:36
+msgid "Tortoiz Contact Form"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:108
+#: widgets/advanced/tortoiz-addons-login-form.php:109
+msgid "Form Settings"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:116
+msgid "Use Custom Email"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:125
+msgid "Mail To"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:128
+msgid "Enter Custom Email"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:129
+msgid ""
+"If the field is empty or enter an invalid email or try to send email from "
+"the editor, then the emails will send to the admin email. This email will "
+"work only in the front-end."
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:138
+#: widgets/advanced/tortoiz-addons-contact-form.php:209
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:106
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:218
+msgid "Fields"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:146
+msgid "Name Placeholder Text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:149
+#: widgets/advanced/tortoiz-addons-contact-form.php:159
+#: widgets/advanced/tortoiz-addons-contact-form.php:169
+#: widgets/advanced/tortoiz-addons-contact-form.php:179
+#: widgets/advanced/tortoiz-addons-login-form.php:120
+#: widgets/advanced/tortoiz-addons-login-form.php:130
+msgid "Enter Placeholder Text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:156
+#: widgets/advanced/tortoiz-addons-login-form.php:117
+msgid "Email Placeholder Text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:166
+msgid "Subject Placeholder Text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:176
+msgid "Message Placeholder Text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:194
+#: widgets/advanced/tortoiz-addons-contact-form.php:398
+#: widgets/advanced/tortoiz-addons-login-form.php:165
+#: widgets/advanced/tortoiz-addons-login-form.php:345
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:203
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:371
+msgid "Submit Button"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:220
+msgid "Layout 1"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:221
+msgid "Layout 2"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:293
+#: widgets/advanced/tortoiz-addons-review-carousel.php:135
+#: widgets/advanced/tortoiz-addons-review-carousel.php:339
+#: widgets/basic/tortoiz-addons-social-icons.php:121
+#: widgets/basic/tortoiz-addons-team.php:108
+#: widgets/basic/tortoiz-addons-team.php:165
+#: widgets/basic/tortoiz-addons-team.php:415
+msgid "Name"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:308
+#: widgets/advanced/tortoiz-addons-login-form.php:315
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:338
+msgid "Email"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:323
+msgid "Subject"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:338
+#: widgets/advanced/tortoiz-addons-countdown.php:194
+#: widgets/advanced/tortoiz-addons-countdown.php:204
+#: widgets/advanced/tortoiz-addons-countdown.php:488
+msgid "Message"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-contact-form.php:524
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:520
+msgid "Processing..."
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:41
+msgid "Tortoiz Content Slider"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:115
+msgid "Slider Content"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:125
+#: widgets/advanced/tortoiz-addons-modal-box.php:118
+#: widgets/advanced/tortoiz-addons-particle-layer.php:119
+#: widgets/basic/tortoiz-addons-accordion.php:174
+#: widgets/basic/tortoiz-addons-content-box.php:108
+#: widgets/basic/tortoiz-addons-transform.php:104
+msgid "Use Save Templates"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:132
+#: widgets/advanced/tortoiz-addons-modal-box.php:125
+#: widgets/advanced/tortoiz-addons-particle-layer.php:126
+#: widgets/basic/tortoiz-addons-accordion.php:181
+#: widgets/basic/tortoiz-addons-content-box.php:115
+#: widgets/basic/tortoiz-addons-transform.php:111
+msgid "Choose Template"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:138
+#: widgets/advanced/tortoiz-addons-modal-box.php:131
+#: widgets/advanced/tortoiz-addons-particle-layer.php:132
+#: widgets/basic/tortoiz-addons-accordion.php:187
+#: widgets/basic/tortoiz-addons-content-box.php:121
+#: widgets/basic/tortoiz-addons-transform.php:117
+msgid ""
+"NOTE: Don't try to edit after insertion template. If you need to change the "
+"style or layout then you try to change the main template then save and then "
+"insert"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:144
+msgid "Use video"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:154
+#: widgets/basic/tortoiz-addons-video.php:135
+msgid "Video Link"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:157
+#: widgets/basic/tortoiz-addons-video.php:138
+msgid "Enter video link"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:170
+#: widgets/advanced/tortoiz-addons-content-slider.php:205
+#: widgets/advanced/tortoiz-addons-modal-box.php:151
+#: widgets/advanced/tortoiz-addons-particle-layer.php:141
+#: widgets/advanced/tortoiz-addons-particle-layer.php:174
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:182
+#: widgets/basic/tortoiz-addons-accordion.php:167
+#: widgets/basic/tortoiz-addons-content-box.php:205
+#: widgets/basic/tortoiz-addons-counter.php:123
+#: widgets/basic/tortoiz-addons-flip-box.php:152
+#: widgets/basic/tortoiz-addons-flip-box.php:232
+#: widgets/basic/tortoiz-addons-pricing.php:111
+#: widgets/basic/tortoiz-addons-progressbar.php:125
+#: widgets/basic/tortoiz-addons-title.php:105
+#: widgets/basic/tortoiz-addons-video.php:147
+msgid "Enter Title"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:182
+#: widgets/advanced/tortoiz-addons-content-slider.php:216
+#: widgets/basic/tortoiz-addons-title.php:123
+#: widgets/basic/tortoiz-addons-title.php:149
+msgid "Select Tag"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:249
+msgid "Styles"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:265
+#: widgets/basic/tortoiz-addons-accordion.php:207
+#: widgets/basic/tortoiz-addons-table.php:208
+#: widgets/basic/tortoiz-addons-table.php:385
+msgid "Add Item"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-content-slider.php:332
+#: widgets/advanced/tortoiz-addons-countdown.php:235
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:296
+#: widgets/basic/tortoiz-addons-accordion.php:238
+#: widgets/basic/tortoiz-addons-content-box.php:100
+#: widgets/basic/tortoiz-addons-content-box.php:264
+#: widgets/basic/tortoiz-addons-flip-box.php:267
+#: widgets/basic/tortoiz-addons-pricing.php:301
+#: widgets/basic/tortoiz-addons-team.php:310
+msgid "Box"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:40
+msgid "Tortoiz Countdown"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:113
+msgid "Countdown"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:121
+msgid "Due Date"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:132
+msgid "Time Units"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:135
+msgid "Years"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:136
+msgid "Month"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:137
+msgid "Week"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:138
+msgid "Day"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:139
+msgid "Hours"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:140
+msgid "Minutes"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:141
+msgid "Second"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:181
+#: widgets/advanced/tortoiz-addons-countdown.php:429
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:635
+#: widgets/basic/tortoiz-addons-fancytext.php:122
+#: widgets/basic/tortoiz-addons-user-counter.php:195
+#: widgets/basic/tortoiz-addons-visit-counter.php:194
+msgid "Text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:191
+msgid "Action"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:195
+msgid "Redirection Link"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:197
+msgid "Choose whether if you want to set a message or a redirect link"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:215
+msgid "Redirect To"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-countdown.php:373
+msgid "Digit"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-login-form.php:37
+msgid "Tortoiz Login Form"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-login-form.php:127
+msgid "Password Placeholder Text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-login-form.php:137
+msgid "Redirect URL after login"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-login-form.php:140
+msgid "Enter Redirect URL"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-login-form.php:147
+msgid "Remember text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-login-form.php:150
+msgid "Enter Remember Text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-login-form.php:180
+msgid "Fields & Remember text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-login-form.php:245
+msgid "Remember styles"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-login-form.php:256
+#: widgets/advanced/tortoiz-addons-review-carousel.php:254
+#: widgets/basic/tortoiz-addons-counter.php:134
+#: widgets/basic/tortoiz-addons-pricing.php:151
+msgid "Middle"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-login-form.php:257
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:283
+#: widgets/advanced/tortoiz-addons-review-carousel.php:255
+#: widgets/basic/tortoiz-addons-counter.php:135
+#: widgets/basic/tortoiz-addons-piechart.php:283
+#: widgets/basic/tortoiz-addons-pricing.php:152
+msgid "Bottom"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-login-form.php:330
+msgid "Password"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:34
+msgid "Tortoiz MailChimp"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:122
+msgid "Email placeholder text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:125
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:143
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:164
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:185
+#: widgets/advanced/tortoiz-addons-search-form.php:107
+msgid "Enter placeholder text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:132
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:302
+msgid "First Name"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:140
+msgid "First name placeholder text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:153
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:320
+msgid "Last Name"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:161
+msgid "Last name placeholder text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:174
+msgid "Phone Number"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:182
+msgid "Phone placeholder text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:226
+#: widgets/basic/tortoiz-addons-fancytext.php:191
+#: widgets/basic/tortoiz-addons-social-icons.php:274
+#: widgets/basic/tortoiz-addons-user-counter.php:147
+#: widgets/basic/tortoiz-addons-visit-counter.php:146
+msgid "Display"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:229
+#: widgets/basic/tortoiz-addons-fancytext.php:194
+#: widgets/basic/tortoiz-addons-social-icons.php:277
+#: widgets/basic/tortoiz-addons-user-counter.php:151
+#: widgets/basic/tortoiz-addons-visit-counter.php:150
+msgid "Inline"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:230
+#: widgets/basic/tortoiz-addons-fancytext.php:195
+#: widgets/basic/tortoiz-addons-social-icons.php:278
+#: widgets/basic/tortoiz-addons-user-counter.php:150
+#: widgets/basic/tortoiz-addons-visit-counter.php:149
+msgid "Block"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-mailchimp-subscribe.php:353
+msgid "Phone"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:39
+msgid "Tortoiz Modal Box"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:110
+msgid "Modal Content"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:137
+#: widgets/basic/tortoiz-addons-table.php:115
+msgid "Header Text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:140
+msgid "Enter Header Text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:165
+#: widgets/advanced/tortoiz-addons-particle-layer.php:200
+#: widgets/basic/tortoiz-addons-content-box.php:219
+#: widgets/basic/tortoiz-addons-flip-box.php:163
+#: widgets/basic/tortoiz-addons-flip-box.php:243
+#: widgets/basic/tortoiz-addons-team.php:129
+#: widgets/basic/tortoiz-addons-title.php:167
+msgid "Enter Description"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:184
+#: widgets/advanced/tortoiz-addons-modal-box.php:1082
+msgid "Trigger Button"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:192
+#: widgets/advanced/tortoiz-addons-particle-layer.php:224
+#: widgets/advanced/tortoiz-addons-particle-layer.php:265
+#: widgets/basic/tortoiz-addons-dynamic-button.php:238
+msgid "CSS ID"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:194
+#: widgets/advanced/tortoiz-addons-particle-layer.php:226
+#: widgets/advanced/tortoiz-addons-particle-layer.php:267
+#: widgets/basic/tortoiz-addons-dynamic-button.php:240
+msgid "Enter ID"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:195
+#: widgets/advanced/tortoiz-addons-particle-layer.php:227
+#: widgets/advanced/tortoiz-addons-particle-layer.php:268
+#: widgets/basic/tortoiz-addons-dynamic-button.php:241
+msgid "Make sure this ID unique"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:208
+msgid "Modal"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:216
+#: widgets/basic/tortoiz-addons-google-map.php:150
+msgid "Animation"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:226
+#: widgets/advanced/tortoiz-addons-particle-layer.php:361
+msgid "Animation Speed"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:365
+#: widgets/basic/tortoiz-addons-accordion.php:305
+#: widgets/basic/tortoiz-addons-table.php:96
+#: widgets/basic/tortoiz-addons-table.php:431
+msgid "Header"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:516
+msgid "Footer"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:582
+msgid "Close Button Style"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:807
+#: widgets/basic/tortoiz-addons-table.php:240
+msgid "Body"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:815
+msgid "Max Height"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-modal-box.php:1210
+msgid "Close"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-news-ticker.php:37
+msgid "Tortoiz News Ticker"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-news-ticker.php:108
+msgid "Ticker Content"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-news-ticker.php:132
+msgid "Ticker Settings"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-news-ticker.php:139
+msgid "Label Text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-news-ticker.php:147
+msgid "Label Position"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-news-ticker.php:152
+msgid "Both"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-news-ticker.php:163
+msgid "Pause On Hover"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-news-ticker.php:170
+#: widgets/advanced/tortoiz-addons-news-ticker.php:433
+msgid "Time"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-news-ticker.php:178
+msgid "Scroll Speed"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-news-ticker.php:299
+msgid "Headline"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-news-ticker.php:522
+msgid " not published yet"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:38
+msgid "Tortoiz Particle Layer"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:282
+msgid "Particle Settings"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:298
+msgid "Ball Color"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:306
+#: widgets/basic/tortoiz-addons-counter.php:361
+#: widgets/basic/tortoiz-addons-user-counter.php:254
+#: widgets/basic/tortoiz-addons-visit-counter.php:253
+msgid "Number"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:317
+msgid "Link Width"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:328
+msgid "Link Distance"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:339
+msgid "Create Link"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:350
+msgid "Ball Max Size"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:372
+msgid "Disable Links"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:381
+msgid "Disable Mouse"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:398
+msgid "Animation Settings"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-particle-layer.php:543
+msgid "Template Style"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:39
+msgid "Sina Portfolio"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:115
+msgid "Portfolio"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:123
+msgid "Overlay Effects"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:126
+msgid "Fade"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:127
+#: widgets/basic/tortoiz-addons-content-box.php:276
+#: widgets/basic/tortoiz-addons-flip-box.php:280
+#: widgets/basic/tortoiz-addons-google-map.php:141
+#: widgets/basic/tortoiz-addons-pricing.php:313
+#: widgets/basic/tortoiz-addons-team.php:363
+#: widgets/basic/tortoiz-addons-video.php:127
+msgid "Zoom"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:128
+msgid "Fade & Buttons Move"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:129
+msgid "Zoom & Buttons Move"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:143
+msgid "5"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:144
+msgid "6"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:145
+msgid "Masonry"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:156
+msgid "Item Name"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:159
+msgid "Enter Item Name"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:166
+msgid "Category"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:169
+msgid "Multiple category must be comma separated."
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:189
+msgid "1 Column 1 Row"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:190
+msgid "1 Column 2 Row"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:191
+msgid "2 Column 1 Row"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:192
+msgid "2 Column 2 Row"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:193
+msgid "3 Column 1 Row"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:194
+msgid "3 Column 2 Row"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:195
+msgid "3 Column 3 Row"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:197
+msgid ""
+"Size will work if the <strong>\"number of columns\"</strong> is <strong>"
+"\"Masonry\"</strong> selected"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:216
+#: widgets/advanced/tortoiz-addons-review-carousel.php:172
+msgid "Add Image"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:283
+msgid "Menu Buttons"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:311
+msgid "Gap From Items"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:404
+msgid "Items"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:463
+msgid "Overlay Styles"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:495
+msgid "Icons"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:586
+msgid "Icons Gap"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:600
+#: widgets/basic/tortoiz-addons-table.php:439
+#: widgets/basic/tortoiz-addons-table.php:662
+#: widgets/basic/tortoiz-addons-team.php:617
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:643
+msgid "Zoom button radius"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-portfolio.php:662
+msgid "Link button radius"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:38
+msgid "Tortoiz Posts Carousel"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:112
+msgid "Posts Content"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:156
+msgid "Text Word"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-carousel.php:299
+msgid "Verticle Align"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:38
+msgid "Tortoiz Posts Tab"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:109
+msgid "Tab Content"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:119
+msgid "Select Category"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:137
+msgid "Add Categories"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:162
+msgid "Tag"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:171
+msgid "Preview Right"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:223
+msgid "Gap From Content"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:335
+msgid "Thumbnail"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:343
+msgid "Width (%)"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:454
+msgid "Title Style"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:502
+msgid "Meta Style"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:531
+#: widgets/advanced/tortoiz-addons-posts-tab.php:868
+msgid "Gap From Title"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:552
+msgid "Preview List"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:560
+msgid "List Width (%)"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:583
+msgid "List Padding"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:601
+msgid "Title Width (%)"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:625
+msgid "Preview Thumb Width (%)"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:648
+msgid "Preview Thumb Height"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-posts-tab.php:709
+msgid "Preview Title"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:38
+msgid "Tortoiz Product Zoomer"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:110
+msgid "Product Content"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:121
+msgid "Enter Product Title"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:132
+msgid "Enter Product Description"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:142
+msgid "https://your-image-link"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:154
+msgid "Content Bottom"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:169
+msgid "Product Images"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:183
+msgid "This title will be show only item header"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:190
+msgid "Original Image"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:200
+msgid "Thumb Image"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:210
+msgid "Preview Image"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:221
+msgid "Add Images"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:269
+msgid "Show Preview"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:277
+msgid "Zoomer Position"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:280
+msgid "Lens"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:281
+#: widgets/advanced/tortoiz-addons-review-carousel.php:253
+#: widgets/basic/tortoiz-addons-piechart.php:282
+#: widgets/basic/tortoiz-addons-pricing.php:150
+msgid "Top"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:292
+msgid "Lens Shape"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-product-zoomer.php:295
+msgid "Circle"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-review-carousel.php:40
+msgid "Tortoiz Review Carousel"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-review-carousel.php:115
+msgid "Review"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-review-carousel.php:146
+#: widgets/basic/tortoiz-addons-team.php:119
+msgid "Enter Position"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-review-carousel.php:153
+msgid "Organization"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-review-carousel.php:155
+msgid "Enter Organization"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-review-carousel.php:162
+#: widgets/advanced/tortoiz-addons-review-carousel.php:554
+msgid "Comment"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-review-carousel.php:164
+msgid "Enter Comment"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-review-carousel.php:250
+#: widgets/basic/tortoiz-addons-pricing.php:147
+msgid "Image Position"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-review-carousel.php:485
+msgid "Company"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-search-form.php:38
+msgid "Tortoiz Search Form"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-search-form.php:96
+msgid "Form Content"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-search-form.php:104
+msgid "Placeholder text"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-search-form.php:122
+msgid "Field"
+msgstr ""
+
+#: widgets/advanced/tortoiz-addons-search-form.php:206
+#: widgets/basic/tortoiz-addons-content-box.php:249
+#: widgets/basic/tortoiz-addons-content-box.php:1015
+#: widgets/basic/tortoiz-addons-pricing.php:845
+#: widgets/basic/tortoiz-addons-video.php:254
+msgid "Button"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-accordion.php:42
+msgid "Tortoiz Accordion"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-accordion.php:114
+msgid "Accordion"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-accordion.php:122
+msgid "First Item Open"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-accordion.php:137
+msgid "Active Icon"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-accordion.php:358
+#: widgets/basic/tortoiz-addons-accordion.php:419
+#: widgets/basic/tortoiz-addons-counter.php:442
+#: widgets/basic/tortoiz-addons-pricing.php:235
+#: widgets/basic/tortoiz-addons-social-icons.php:140
+#: widgets/basic/tortoiz-addons-social-icons.php:184
+#: widgets/basic/tortoiz-addons-social-icons.php:379
+#: widgets/basic/tortoiz-addons-social-icons.php:430
+#: widgets/basic/tortoiz-addons-team.php:184
+#: widgets/basic/tortoiz-addons-team.php:228
+#: widgets/basic/tortoiz-addons-team.php:657
+#: widgets/basic/tortoiz-addons-team.php:708
+#: widgets/basic/tortoiz-addons-video.php:288
+#: widgets/basic/tortoiz-addons-video.php:340
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-accordion.php:402
+msgid "Active"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:41
+msgid "Tortoiz Content Box"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:127
+#: widgets/basic/tortoiz-addons-pricing.php:176
+msgid "Ribbon Title"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:134
+#: widgets/basic/tortoiz-addons-pricing.php:183
+msgid "Ribbon Position"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:156
+#: widgets/basic/tortoiz-addons-flip-box.php:107
+#: widgets/basic/tortoiz-addons-flip-box.php:187
+msgid "Icon Format"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:272
+#: widgets/basic/tortoiz-addons-flip-box.php:275
+#: widgets/basic/tortoiz-addons-pricing.php:309
+#: widgets/basic/tortoiz-addons-team.php:359
+#: widgets/basic/tortoiz-addons-video.php:122
+msgid "Effects"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:275
+#: widgets/basic/tortoiz-addons-content-box.php:308
+#: widgets/basic/tortoiz-addons-pricing.php:312
+#: widgets/basic/tortoiz-addons-pricing.php:345
+#: widgets/basic/tortoiz-addons-team.php:362
+msgid "Move"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:320
+#: widgets/basic/tortoiz-addons-image-differ.php:174
+#: widgets/basic/tortoiz-addons-pricing.php:357
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:346
+#: widgets/basic/tortoiz-addons-image-differ.php:175
+#: widgets/basic/tortoiz-addons-pricing.php:383
+msgid "Vertical"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:479
+#: widgets/basic/tortoiz-addons-content-box.php:607
+msgid "Title & Description"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:486
+#: widgets/basic/tortoiz-addons-content-box.php:614
+msgid "Title Color"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:500
+#: widgets/basic/tortoiz-addons-content-box.php:627
+msgid "Description Color"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:682
+#: widgets/basic/tortoiz-addons-flip-box.php:339
+#: widgets/basic/tortoiz-addons-flip-box.php:404
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:734
+#: widgets/basic/tortoiz-addons-flip-box.php:490
+msgid "Icon or Image"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-content-box.php:945
+#: widgets/basic/tortoiz-addons-pricing.php:1020
+msgid "Ribbon"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:39
+msgid "Tortoiz Counter"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:112
+msgid "Counter"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:131
+msgid "Title Position"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:154
+msgid "Start Number"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:163
+msgid "Stop Number"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:172
+msgid "Thousand Delimiter"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:175
+msgid "Comma"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:176
+msgid "Dot"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:177
+msgid "Pipe"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:178
+msgid "space"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:186
+msgid "Counting Duration"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:197
+#: widgets/basic/tortoiz-addons-piechart.php:147
+#: widgets/basic/tortoiz-addons-progressbar.php:151
+msgid "Prefix"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:199
+msgid "Enter Prefix"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:205
+msgid "Prefix Space"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:224
+#: widgets/basic/tortoiz-addons-piechart.php:155
+#: widgets/basic/tortoiz-addons-progressbar.php:159
+msgid "Suffix"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:226
+#: widgets/basic/tortoiz-addons-pricing.php:130
+msgid "Enter Suffix"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-counter.php:232
+msgid "Suffix space"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-dynamic-button.php:39
+msgid "Tortoiz Dynamic Button"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-dynamic-button.php:97
+msgid "Button Content"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-dynamic-button.php:122
+msgid "Button Type"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-dynamic-button.php:125
+msgid "Static"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-dynamic-button.php:126
+msgid "Page"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-dynamic-button.php:127
+msgid "Taxonomy"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-dynamic-button.php:135
+msgid "Select Page"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-dynamic-button.php:147
+msgid "Select Taxonomy"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-dynamic-button.php:160
+msgid "Select "
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-dynamic-button.php:258
+msgid "Button Style"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:39
+msgid "Sina Fancy Text"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:112
+#: widgets/basic/tortoiz-addons-fancytext.php:132
+#: widgets/basic/tortoiz-addons-fancytext.php:332
+msgid "Fancy Text"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:155
+#: widgets/basic/tortoiz-addons-fancytext.php:374
+#: widgets/basic/tortoiz-addons-user-counter.php:126
+msgid "Prefix Text"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:158
+#: widgets/basic/tortoiz-addons-user-counter.php:129
+msgid "Enter prefix text"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:165
+#: widgets/basic/tortoiz-addons-fancytext.php:414
+#: widgets/basic/tortoiz-addons-user-counter.php:137
+msgid "Suffix Text"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:168
+#: widgets/basic/tortoiz-addons-user-counter.php:140
+msgid "Enter suffix text"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:183
+msgid "Fancy Settings"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:230
+msgid "Typing"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:235
+msgid "Animation Type"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:255
+msgid "Typing Speed"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:269
+msgid "Loop"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:280
+msgid "Cursor"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-fancytext.php:293
+msgid "Cursor Color"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-flip-box.php:40
+msgid "Tortoiz Flip Box"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-flip-box.php:99
+msgid "Front Side"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-flip-box.php:179
+msgid "Back Side"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-flip-box.php:278
+msgid "Horizontal Flip"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-flip-box.php:279
+msgid "Verticle Flip"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-flip-box.php:291
+#: widgets/basic/tortoiz-addons-flip-box.php:500
+#: widgets/basic/tortoiz-addons-flip-box.php:757
+#: widgets/basic/tortoiz-addons-flip-box.php:908
+msgid "Front"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-flip-box.php:356
+#: widgets/basic/tortoiz-addons-flip-box.php:619
+#: widgets/basic/tortoiz-addons-flip-box.php:823
+#: widgets/basic/tortoiz-addons-flip-box.php:954
+msgid "Back"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-google-map.php:36
+msgid "Tortoiz Google Map"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-google-map.php:109
+#: widgets/basic/tortoiz-addons-google-map.php:191
+msgid "Map"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-google-map.php:125
+msgid "Latitude"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-google-map.php:133
+msgid "Longitude"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-google-map.php:153
+msgid "Drop"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-google-map.php:162
+msgid "Marker"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-google-map.php:170
+msgid "Choose Marker"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-google-map.php:260
+msgid "Transition Duration"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:37
+msgid "Tortoiz Image Differ"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:111
+msgid "Differ Content"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:119
+msgid "Before Image"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:129
+msgid "After Image"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:147
+msgid "Differ Settings"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:155
+msgid "Before Text"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:163
+msgid "After Text"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:171
+msgid "Orientation"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:183
+msgid "Slider Offset"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:203
+msgid "Slider move on hover"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:212
+msgid "Slider move on click"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:229
+msgid "Differ"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:248
+msgid "Handle Background"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:259
+msgid "Handle Separator Color"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-image-differ.php:317
+msgid "Labels"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:37
+msgid "Tortoiz Piechart"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:110
+msgid "Piechart"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:121
+msgid "Enter title"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:129
+#: widgets/basic/tortoiz-addons-piechart.php:360
+#: widgets/basic/tortoiz-addons-progressbar.php:133
+msgid "Value"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:138
+#: widgets/basic/tortoiz-addons-progressbar.php:142
+msgid "Max Value"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:149
+#: widgets/basic/tortoiz-addons-progressbar.php:153
+msgid "Enter prefix"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:157
+#: widgets/basic/tortoiz-addons-progressbar.php:161
+msgid "Enter suffix"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:180
+msgid "Animation Duration"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:199
+msgid "Chart"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:207
+msgid "Bar Color"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:215
+msgid "Bar Width"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:225
+msgid "Bar Cap"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:228
+msgid "Round"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:229
+msgid "Square"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:237
+msgid "Track Color"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:245
+msgid "Track Width"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-piechart.php:255
+msgid "Scale Color"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-pricing.php:41
+msgid "Tortoiz Pricing"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-pricing.php:100
+msgid "Pricing"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-pricing.php:119
+#: widgets/basic/tortoiz-addons-pricing.php:672
+msgid "Price"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-pricing.php:121
+msgid "Enter Price"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-pricing.php:128
+msgid "Price Suffix"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-pricing.php:140
+msgid "Show Image"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-pricing.php:211
+msgid "Enter Content"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-pricing.php:246
+msgid "Add Content"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-pricing.php:286
+msgid "Order Button"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-pricing.php:751
+msgid "Suffix Size"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-pricing.php:927
+msgid "Icon Styles"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-progressbar.php:42
+msgid "Tortoiz Progressbar"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-progressbar.php:114
+#: widgets/basic/tortoiz-addons-progressbar.php:176
+msgid "Progressbar"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-progressbar.php:228
+#: widgets/basic/tortoiz-addons-transform.php:619
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-progressbar.php:239
+msgid "Track Style"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-progressbar.php:327
+msgid "Bottom Margin"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-progressbar.php:372
+msgid "Percentage"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-social-icons.php:37
+msgid "Tortoiz Social Icons"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-social-icons.php:95
+#: widgets/basic/tortoiz-addons-social-icons.php:266
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-social-icons.php:122
+#: widgets/basic/tortoiz-addons-team.php:166
+msgid "This name will be show in the item header"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-social-icons.php:226
+#: widgets/basic/tortoiz-addons-team.php:270
+msgid "Add Social Icon"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-social-icons.php:289
+#: widgets/basic/tortoiz-addons-team.php:602
+#: widgets/basic/tortoiz-addons-video.php:373
+msgid "Font Size"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-social-icons.php:354
+#: widgets/basic/tortoiz-addons-team.php:632
+#: widgets/basic/tortoiz-addons-video.php:443
+msgid "Line Height"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-table.php:38
+msgid "Tortoiz Table"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-table.php:106
+#: widgets/basic/tortoiz-addons-table.php:275
+msgid "Column Span"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-table.php:135
+#: widgets/basic/tortoiz-addons-table.php:311
+msgid "Before"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-table.php:136
+#: widgets/basic/tortoiz-addons-table.php:312
+msgid "After"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-table.php:250
+msgid "Content Type"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-table.php:253
+msgid "Row"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-table.php:254
+msgid "Cell"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-table.php:255
+msgid "Head"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-table.php:263
+msgid "Row Span"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-team.php:41
+msgid "Tortoiz Team"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-team.php:100
+msgid "Member"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-team.php:364
+msgid "Move & Zoom"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-team.php:594
+msgid "Social Icon"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-title.php:36
+msgid "Tortoiz Title"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-title.php:94
+msgid "Title Content"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-title.php:142
+msgid "Enter Sub Title"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:38
+msgid "Tortoiz Transform"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:96
+msgid "Transform Content"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:123
+msgid "Space"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:155
+msgid "Transform Style"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:191
+msgid "Transform Effects"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:194
+#: widgets/basic/tortoiz-addons-transform.php:218
+#: widgets/basic/tortoiz-addons-transform.php:421
+msgid "Rotate X"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:195
+#: widgets/basic/tortoiz-addons-transform.php:241
+#: widgets/basic/tortoiz-addons-transform.php:444
+msgid "Rotate Y"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:196
+#: widgets/basic/tortoiz-addons-transform.php:264
+#: widgets/basic/tortoiz-addons-transform.php:467
+msgid "Rotate Z"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:197
+#: widgets/basic/tortoiz-addons-transform.php:287
+#: widgets/basic/tortoiz-addons-transform.php:490
+msgid "Skew X"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:198
+#: widgets/basic/tortoiz-addons-transform.php:310
+#: widgets/basic/tortoiz-addons-transform.php:513
+msgid "Skew Y"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:199
+msgid "Translate"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:333
+#: widgets/basic/tortoiz-addons-transform.php:536
+msgid "Translate X"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-transform.php:352
+#: widgets/basic/tortoiz-addons-transform.php:555
+msgid "Translate Y"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-user-counter.php:37
+msgid "Tortoiz User Counter"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-user-counter.php:109
+msgid "User Counter"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-user-counter.php:117
+msgid "Select Roles"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-video.php:40
+msgid "Tortoiz Video"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-video.php:114
+msgid "Video"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-video.php:126
+msgid "Rubber"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-video.php:128
+msgid "Wave"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-visit-counter.php:37
+msgid "Tortoiz Visit Counter"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-visit-counter.php:109
+msgid "Visitor Count"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-visit-counter.php:117
+msgid "Today Text"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-visit-counter.php:120
+#: widgets/basic/tortoiz-addons-visit-counter.php:131
+msgid "Enter text"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-visit-counter.php:128
+msgid "Yesterday Text"
+msgstr ""
+
+#: widgets/basic/tortoiz-addons-visit-counter.php:139
+msgid "Today at Top"
+msgstr ""
+
+#: widgets/layout/blogpost/grid.php:37 widgets/layout/blogpost/list.php:41
+msgid "by"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A collection of high-quality widgets for Elementor page builder."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "tortoizthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://tortoizthemes.com/"
+msgstr ""

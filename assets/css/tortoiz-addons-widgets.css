@@ -1,0 +1,1099 @@
+/* Tortoiz Addons for Elementor v3.1.0 */
+
+/*--------------------------------- General -------------------------------------- */
+.tortoiz-addons-overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	transition: 0.4s;
+}
+.tortoiz-addons-bg-cover{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.tortoiz-addons-flex{
+	display: flex;
+}
+.tortoiz-addons-login-remember-wrap input[type="checkbox"],
+.tortoiz-addons-login-remember-wrap input[type="radio"]{
+	height: inherit;
+}
+
+/* Common */
+.tortoiz-addons-content-box-move:hover,
+.tortoiz-addons-content-box-zoom:hover,
+.tortoiz-addons-pricing-move:hover,
+.tortoiz-addons-pricing-zoom:hover{
+	z-index: 999;
+}
+.tortoiz-addons-pc-meta a,
+.tortoiz-addons-bp-meta a,
+.tortoiz-addons-transform-content,
+.tortoiz-addons-content-slider .owl-item,
+.tortoiz-addons-brand-carousel .owl-item,
+.tortoiz-addons-posts-carousel .owl-item,
+.tortoiz-addons-brand-item-inner,
+.tortoiz-addons-cs-item,
+.tortoiz-addons-pc-thumb,
+.tortoiz-addons-brand-item-inner a img,
+.tortoiz-addons-flipbox-title,
+.tortoiz-addons-flipbox-icon i,
+.tortoiz-addons-content-box-icon i,
+.tortoiz-addons-content-box-icon img,
+.tortoiz-addons-content-box-title,
+.tortoiz-addons-content-box-title > a,
+.tortoiz-addons-order-btn,
+.tortoiz-addons-banner-pbtn,
+.tortoiz-addons-banner-sbtn,
+.tortoiz-addons-button,
+.tortoiz-addons-pt-cat-btn,
+.tortoiz-addons-portfolio-btn {
+	transition: all 0.4s ease-in-out;
+}
+.tortoiz-addons-button i,
+.tortoiz-addons-dynamic-btn i,
+.tortoiz-addons-read-more i,
+.tortoiz-addons-order-btn i,
+.tortoiz-addons-banner-pbtn i,
+.tortoiz-addons-banner-sbtn i{
+	display: inline-block;
+	transition: 0.2s cubic-bezier(0.1, 0.8, 0.8, 1);
+}
+.tortoiz-addons-table table th,
+.tortoiz-addons-table table td,
+.tortoiz-addons-table table tr{
+	transition: all 0.1s ease-in-out;
+}
+.tortoiz-addons-posts-carousel,
+.tortoiz-addons-brand-carousel,
+.tortoiz-addons-content-slider,
+.tortoiz-addons-review-carousel,
+.tortoiz-addons-banner-slider{
+	direction: ltr;
+}
+.tortoiz-addons-transform-content,
+.tortoiz-addons-load-more,
+.tortoiz-addons-bp-list .tortoiz-addons-bp,
+.tortoiz-addons-modal-content,
+.tortoiz-addons-accordion-item,
+.tortoiz-addons-accordion-body,
+.tortoiz-addons-blogpost,
+.tortoiz-addons-bp-grid,
+.tortoiz-addons-bp-col,
+.tortoiz-addons-bp,
+.tortoiz-addons-brand-carousel,
+.tortoiz-addons-contact-input,
+.xzoom-hidden,
+.tortoiz-addons-portfolio,
+.tortoiz-addons-posts-tab,
+.tortoiz-addons-pt-item,
+.tortoiz-addons-pt-content,
+.tortoiz-addons-pt-content .tortoiz-addons-pt-post {
+	overflow: hidden;
+}
+.tortoiz-addons-login-remember-wrap,
+.tortoiz-addons-google-map,
+.tortoiz-addons-pt-title,
+.tortoiz-addons-table table,
+.tortoiz-addons-team img,
+.tortoiz-addons-load-more,
+.tortoiz-addons-bp-item-1{
+	width: 100%;
+}
+/* Template Editor button hide */
+.tortoiz-addons-modal-content .elementor-element-overlay,
+.tortoiz-addons-transform .elementor-element-overlay,
+.tortoiz-addons-accordion-body .elementor-element-overlay,
+.tortoiz-addons-content-box .elementor-element-overlay,
+.tortoiz-addons-content-slider .elementor-element-overlay,
+.tortoiz-addons-accordion-item > .tortoiz-addons-accordion-header > .tortoiz-addons-accordion-icon .on,
+.tortoiz-addons-accordion-item.open > .tortoiz-addons-accordion-header > .tortoiz-addons-accordion-icon .off,
+.tortoiz-addons-accordion-body,
+.tortoiz-addons-subs-form a,
+.tortoiz-addons-pt-item{
+	display: none;
+}
+.tortoiz-addons-social li a,
+.tortoiz-addons-team-social li a,
+.tortoiz-addons-bg-thumb img,
+.tortoiz-addons-pt-item.active,
+.tortoiz-addons-pt-content .tortoiz-addons-pt-btn,
+.tortoiz-addons-accordion-item.open > .tortoiz-addons-accordion-header > .tortoiz-addons-accordion-icon .on{
+	display: block;
+}
+.tortoiz-addons-dynamic-btn,
+.tortoiz-addons-team-social li,
+.tortoiz-addons-fancytext .tortoiz-addons-fancytext-strings > .animated,
+.tortoiz-addons-product-zoomer,
+.tortoiz-addons-read-more,
+.tortoiz-addons-pricing-btn .tortoiz-addons-order-btn,
+.tortoiz-addons-banner-btns .tortoiz-addons-banner-pbtn,
+.tortoiz-addons-banner-btns .tortoiz-addons-banner-sbtn{
+	display: inline-block;
+}
+.twentytwenty-before-label:before,
+.twentytwenty-after-label:before,
+.tortoiz-addons-dynamic-btn,
+.tortoiz-addons-social li a i,
+.tortoiz-addons-portfolio-overlay i,
+.tortoiz-addons-team-social li i {
+	text-align: center;
+	transition: 0.4s;
+}
+.tortoiz-addons-bp-list .tortoiz-addons-bg-thumb,
+.tortoiz-addons-bp-list .tortoiz-addons-bp-content,
+.tortoiz-addons-bp-col,
+.tortoiz-addons-news,
+.tortoiz-addons-news-content,
+.tortoiz-addons-portfolio-item,
+.tortoiz-addons-pt-content .tortoiz-addons-pt-posts,
+.tortoiz-addons-pt-content-right .tortoiz-addons-pt-content-content,
+.tortoiz-addons-posts-carousel .owl-next span,
+.tortoiz-addons-posts-carousel .owl-prev span,
+.tortoiz-addons-content-slider .owl-next span,
+.tortoiz-addons-content-slider .owl-prev span,
+.tortoiz-addons-review-carousel .owl-next span,
+.tortoiz-addons-review-carousel .owl-prev span,
+.tortoiz-addons-banner-slider .owl-next span,
+.tortoiz-addons-banner-slider .owl-prev span{
+	float: left;
+}
+.tortoiz-addons-input-field{
+	display: inline-block;
+	width: inherit;
+	height: inherit;
+	vertical-align: inherit !important;
+	transition: 0.4s;
+}
+.tortoiz-addons-input-field:focus,
+.tortoiz-addons-input-field:focus,
+.tortoiz-addons-video-play,
+.tortoiz-addons-video-play:focus,
+.mfp-arrow.mfp-prevent-close{
+	outline: none;
+}
+.tortoiz-addons-button:active,
+.tortoiz-addons-button:focus,
+.tortoiz-addons-button{
+	border: 0;
+	outline: none;
+	cursor: pointer;
+}
+.tortoiz-addons-pt-thumb-content h2,
+.tortoiz-addons-pt-thumb-content p,
+.tortoiz-addons-pricing-title,
+.tortoiz-addons-modal-header{
+	margin: 0;
+}
+.tortoiz-addons-social{
+	margin: 0;
+	padding: 0;
+}
+
+/* Magnific Popup */
+.mfp-image-holder .mfp-close,
+.mfp-iframe-holder .mfp-close {
+	top: -44px;
+	right: 0 !important;
+	padding-right: 0 !important;
+	background: transparent;
+	outline: none;
+	font-weight: 400;
+}
+img.mfp-img{
+	padding-top: 0;
+}
+
+/* Ribbon */
+.tortoiz-addons-ribbon-left,
+.tortoiz-addons-ribbon-right {
+	position: absolute;
+	top: 25px;
+	right: -85px;
+	width: 250px;
+	padding: 5px;
+	z-index: 9;
+	transform: rotate( 45deg );
+	text-align: center;
+}
+.tortoiz-addons-ribbon-left {
+	left: -85px;
+	right: auto;
+	transform: rotate( -45deg );
+}
+
+.tortoiz-addons-tooltip-text{
+	position: absolute;
+	left: 0;
+	right: 0;
+	visibility: hidden;
+	z-index: 1;
+	opacity: 0;
+	text-align: center;
+	transition: 0.4s;
+}
+.tortoiz-addons-tooltip-text::after{
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	content: "";
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black transparent transparent transparent;
+}
+.tortoiz-addons-banner-pbtn,
+.tortoiz-addons-banner-sbtn{
+	position: relative;
+}
+.tortoiz-addons-banner-pbtn:hover .tortoiz-addons-tooltip-text,
+.tortoiz-addons-banner-sbtn:hover .tortoiz-addons-tooltip-text{
+	opacity: 1;
+	visibility: visible;
+}
+
+
+/*--------------------------------- Accordion -------------------------------------- */
+.tortoiz-addons-accordion-item .tortoiz-addons-accordion-header{
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+	margin: 0;
+	cursor: pointer;
+	transition: 0.4s;
+}
+.tortoiz-addons-accordion-desc p{
+	margin-bottom: 0;
+}
+
+/*------------------- Banner Slider, Brand Carousel & Review Carousel -------------------*/
+.tortoiz-addons-banner-slider{
+	position: relative;
+}
+.tortoiz-addons-slider-content .tortoiz-addons-overlay{
+	opacity: 1;
+}
+.tortoiz-addons-posts-carousel .owl-next,
+.tortoiz-addons-posts-carousel .owl-prev,
+.tortoiz-addons-content-slider .owl-next,
+.tortoiz-addons-content-slider .owl-prev,
+.tortoiz-addons-review-carousel .owl-next,
+.tortoiz-addons-review-carousel .owl-prev,
+.tortoiz-addons-banner-slider .owl-next,
+.tortoiz-addons-banner-slider .owl-prev {
+	position: absolute;
+	padding: 2px 14px 6px;
+	border: 0;
+	outline: 0;
+	font-size: 30px;
+	text-align: center;
+	line-height: 30px;
+	cursor: pointer;
+	opacity: 0;
+	transition: all 0.6s ease-in-out;
+}
+.tortoiz-addons-posts-carousel .owl-next,
+.tortoiz-addons-content-slider .owl-next,
+.tortoiz-addons-review-carousel .owl-next,
+.tortoiz-addons-banner-slider .owl-next{
+	right: 35px;
+	transform: translate( 0, -40px );
+}
+.tortoiz-addons-posts-carousel .owl-prev,
+.tortoiz-addons-content-slider .owl-prev,
+.tortoiz-addons-review-carousel .owl-prev,
+.tortoiz-addons-banner-slider .owl-prev{
+	left: 35px;
+	transform: translate( 0, 40px );
+}
+.tortoiz-addons-content-slider:hover .owl-next,
+.tortoiz-addons-content-slider:hover .owl-prev,
+.tortoiz-addons-posts-carousel:hover .owl-next,
+.tortoiz-addons-posts-carousel:hover .owl-prev,
+.tortoiz-addons-banner-slider:hover .owl-next,
+.tortoiz-addons-banner-slider:hover .owl-prev {
+	opacity: 1;
+	transform: translate(0);
+}
+.tortoiz-addons-posts-carousel .owl-dots,
+.tortoiz-addons-content-slider .owl-dots,
+.tortoiz-addons-banner-slider .owl-dots,
+.tortoiz-addons-review-carousel .owl-dots {
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+.tortoiz-addons-banner-slider .owl-dots{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.tortoiz-addons-posts-carousel .owl-dot,
+.tortoiz-addons-content-slider .owl-dot,
+.tortoiz-addons-banner-slider .owl-dot,
+.tortoiz-addons-review-carousel .owl-dot {
+	width: 20px;
+	height: 10px; 
+	margin: 25px .2rem;
+	background: transparent;
+	border: 1px solid #1085e4;
+	border-radius: 10px;
+	outline: 0;
+	cursor: pointer;
+	transition: all .25s ease-in-out
+}
+.tortoiz-addons-posts-carousel .owl-dot.active,
+.tortoiz-addons-content-slider .owl-dot.active,
+.tortoiz-addons-banner-slider .owl-dot.active,
+.tortoiz-addons-review-carousel .owl-dot.active {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%
+}
+.tortoiz-addons-anim-invisible{
+	visibility: hidden;
+}
+
+/*--------------------------------- Blogpost -------------------------------------- */
+.tortoiz-addons-bp-item-2{
+	width: 50%;
+}
+.tortoiz-addons-bp-item-3{
+	width: 33.333333%;
+}
+.tortoiz-addons-bp-item-4{
+	width: 25%;
+}
+.tortoiz-addons-bg-thumb{
+	position: relative;
+}
+.tortoiz-addons-bg-thumb .tortoiz-addons-overlay > a{
+	display: block;
+	height: 100%;
+}
+.tortoiz-addons-bg-thumb:hover .tortoiz-addons-overlay{
+	opacity: 1;
+}
+.tortoiz-addons-pc-title,
+.tortoiz-addons-pc-title a,
+.tortoiz-addons-bp-title,
+.tortoiz-addons-bp-title a{
+	display: block;
+	transition: 0.4s;
+}
+.tortoiz-addons-bp-pagination .page-numbers {
+	display: inline-block;
+	text-align: center;
+	transition: all 0.4s ease-in-out;
+}
+.tortoiz-addons-load-more .tortoiz-addons-load-more-btn{
+	min-width: 160px;
+}
+
+/*--------------------------------- Posts Carousel -------------------------------------- */
+.tortoiz-addons-pc-thumb{
+	overflow: hidden;
+	position: relative;
+}
+.tortoiz-addons-pc-thumb .tortoiz-addons-overlay{
+	opacity: 1;
+}
+.tortoiz-addons-pc-content{
+	position: relative;
+	width: 100%;
+}
+
+/*--------------------------------- Brand Carousel -------------------------------------- */
+.tortoiz-addons-brand-item-inner a{
+	display: block;
+	text-align: center;
+}
+
+/*--------------------------------- Contact Form -------------------------------------- */
+.tortoiz-addons-contact-input-half{
+	width: calc(50% - 10px);
+	float: left;
+}
+.tortoiz-addons-contact-input-half:last-child{
+	margin-left: 20px;
+}
+.tortoiz-addons-contact-input .tortoiz-addons-input-field{
+	width: calc(33.33333% - 3.12px);
+}
+.tortoiz-addons-contact-input .tortoiz-addons-input-block{
+	display: block;
+	width: 100%;
+	float: left;
+}
+.tortoiz-addons-contact-input textarea.tortoiz-addons-input-field{
+	resize: vertical;
+}
+
+/*-------------------------- Content Box ----------------------- */
+.tortoiz-addons-pricing,
+.tortoiz-addons-content-box{
+	position: relative;
+	transition: 0.4s;
+	overflow: hidden;
+}
+
+/*-------------------------- Countdown --------------------------*/
+.tortoiz-addons-countdown .tortoiz-addons-cd {
+	display: inline-block;
+	text-align: center;
+}
+
+/*-------------------------- Fancytext --------------------------*/
+.tortoiz-addons-fancytext .typed-cursor {
+	font-weight: 400  !important;
+	font-style: normal !important;
+	opacity: 1;
+	animation: blink_cursor 0.7s infinite;
+}
+
+/*-------------------------- Flip Box --------------------------*/
+.tortoiz-addons-flipbox{
+	position: relative;
+	perspective: 1000px;
+}
+.tortoiz-addons-flipbox-front,
+.tortoiz-addons-flipbox-back{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	backface-visibility: hidden;
+	overflow: hidden;
+	transition: 0.5s;
+}
+/*Verticle flip*/
+.tortoiz-addons-flipbox-front.tortoiz-addons-flipbox-effect-h-flip{
+	transform: rotateY(0deg);
+}
+.tortoiz-addons-flipbox-back.tortoiz-addons-flipbox-effect-h-flip{
+	transform: rotateY(-180deg);
+}
+.tortoiz-addons-flipbox:hover .tortoiz-addons-flipbox-front.tortoiz-addons-flipbox-effect-h-flip{
+	transform: rotateY(180deg);
+}
+.tortoiz-addons-flipbox:hover .tortoiz-addons-flipbox-back.tortoiz-addons-flipbox-effect-h-flip{
+	transform: rotateY(0deg);
+}
+/*Horizontal flip*/
+.tortoiz-addons-flipbox-front.tortoiz-addons-flipbox-effect-v-flip{
+	transform: rotateX(0deg);
+}
+.tortoiz-addons-flipbox-back.tortoiz-addons-flipbox-effect-v-flip{
+	transform: rotateX(-180deg);
+}
+.tortoiz-addons-flipbox:hover .tortoiz-addons-flipbox-front.tortoiz-addons-flipbox-effect-v-flip{
+	transform: rotateX(180deg);
+}
+.tortoiz-addons-flipbox:hover .tortoiz-addons-flipbox-back.tortoiz-addons-flipbox-effect-v-flip{
+	transform: rotateX(0deg);
+}
+/*Zoom*/
+.tortoiz-addons-flipbox-front.tortoiz-addons-flipbox-effect-zoom{
+	opacity: 1;
+	transform: scale(1);
+}
+.tortoiz-addons-flipbox-back.tortoiz-addons-flipbox-effect-zoom{
+	opacity: 0;
+	transform: scale(.5);
+}
+.tortoiz-addons-flipbox:hover .tortoiz-addons-flipbox-back.tortoiz-addons-flipbox-effect-zoom{
+	opacity: 1;
+	transform: scale(1);
+}
+
+/*--------------------------------- Product Zoomer -------------------------------------- */
+.tortoiz-addons-product-title a,
+.tortoiz-addons-product-title{
+	margin: 0 0 6px 0;
+}
+.tortoiz-addons-product-desc{
+	margin: 0 0 20px 0;
+}
+.xzoom-source img,
+.xzoom-preview img,
+.xzoom-lens img {
+	display: block;
+	max-width: none;
+	max-height: none
+}
+.xzoom-thumb-item {
+	cursor: pointer;
+	float: left
+}
+.elementor .xzoom-gallery {
+	display: inline-block;
+	border: 1px solid #cecece;
+	width: 100%
+}
+.elementor .xzoom {
+	box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+	margin-bottom: 20px
+}
+.xzoom-source,
+.xzoom-hidden {
+	display: block;
+	position: static;
+	float: none;
+	clear: both
+}
+.xzoom-preview {
+	border: 1px solid #888;
+	box-shadow: -0 -0 10px rgba(0, 0, 0, 0.50)
+}
+.xzoom-lens {
+	border: 1px solid #555;
+	box-shadow: -0 -0 10px rgba(0, 0, 0, 0.50);
+	cursor: crosshair
+}
+.elementor .xactive {
+	box-shadow: 0 0 3px 0 rgba(74, 169, 210, 1);
+	border: 1px solid #4aaad2
+}
+
+/*-------------------------- Login Form --------------------------*/
+.tortoiz-addons-login-remember{
+	height: inherit;
+}
+
+/*--------------------------------- Mailchimp Subscribe Form -------------------------------------- */
+.tortoiz-addons-search-form,
+.tortoiz-addons-subs-form{
+	overflow: hidden;
+	text-align: center;
+}
+.tortoiz-addons-subs-input .tortoiz-addons-input-field{
+	width: 300px;
+}
+.tortoiz-addons-search-box .tortoiz-addons-input-block,
+.tortoiz-addons-subs-input .tortoiz-addons-input-block{
+	display: block;
+	width: 100%;
+	float: left;
+}
+.tortoiz-addons-search-box .tortoiz-addons-search-btn.tortoiz-addons-input-block,
+.tortoiz-addons-subs-input .tortoiz-addons-subs-btn.tortoiz-addons-input-block{
+	display: inline;
+	width: inherit;
+	margin-left: 0;
+}
+.tortoiz-addons-login-error,
+.tortoiz-addons-contact-error,
+.tortoiz-addons-contact-success,
+.tortoiz-addons-subs-error,
+.tortoiz-addons-subs-success{
+	display: none;
+	margin: 0;
+	padding: 0;
+	color: #0a0;
+	text-transform: inherit;
+}
+.tortoiz-addons-login-error,
+.tortoiz-addons-contact-error,
+.tortoiz-addons-subs-error{
+	color: #f40;
+}
+.tortoiz-addons-contact-process,
+.tortoiz-addons-subs-process{
+	display: none;
+	margin: 15px 0 0;
+	color: #ccc;
+}
+
+/*-------------------------- Modal Box --------------------------*/
+.tortoiz-addons-modal-overlay{
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	display: none;
+	z-index: 99999;
+}
+.tortoiz-addons-modal-area{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+}
+.tortoiz-addons-modal-body{
+	overflow-y: auto;
+}
+
+/*-------------------------- News Ticker --------------------------*/
+.tortoiz-addons-news-ticker{
+	position: relative;
+	overflow: hidden;
+}
+.tortoiz-addons-news-ticker .tortoiz-addons-nt-left-label,
+.tortoiz-addons-news-ticker .tortoiz-addons-nt-right-label{
+	position: absolute;
+	top: 0;
+	left: 0;
+	float: left;
+	text-align: center;
+}
+.tortoiz-addons-news-ticker .tortoiz-addons-nt-right-label{
+	left: inherit;
+	right: 0;
+}
+.tortoiz-addons-news-ticker .tortoiz-addons-news a{
+	display: block;
+	text-decoration: none;
+}
+
+/*-------------------------- Particle Layer --------------------------*/
+.tortoiz-addons-particle-layer{
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+}
+.tortoiz-addons-banner-container{
+	position: relative;
+	z-index: 1;
+	margin: 0 auto;
+}
+.tortoiz-addons-banner-desc > p{
+	margin: 0 0 10px 0 !important;
+}
+.tortoiz-addons-particle{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/*-------------------------- Pie Chart --------------------------*/
+.tortoiz-addons-piechart {
+	position: relative;
+	margin: 0 auto;
+}
+.tortoiz-addons-piechart .tortoiz-addons-piechart-content {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+/*--------------------------------- Portfolio -------------------------------------- */
+.tortoiz-addons-pf-item-4{
+	width: 25%;
+	height: 300px;
+}
+.tortoiz-addons-pf-item-5{
+	width: 20%;
+	height: 240px;
+}
+.tortoiz-addons-pf-grid-sizer{
+	width: 16.666667%;
+}
+.tortoiz-addons-pf-item-6,
+.tortoiz-addons-pf-item-11{
+	width: 16.666667%;
+	height: 200px;
+}
+.tortoiz-addons-pf-item-12{
+	width: 16.666667%;
+	height: 400px;
+}
+.tortoiz-addons-pf-item-21{
+	width: 33.333333%;
+	height: 200px;
+}
+.tortoiz-addons-pf-item-3,
+.tortoiz-addons-pf-item-22{
+	width: 33.333333%;
+	height: 400px;
+}
+.tortoiz-addons-pf-item-31{
+	width: 50%;
+	height: 200px;
+}
+.tortoiz-addons-pf-item-32{
+	width: 50%;
+	height: 400px;
+}
+.tortoiz-addons-pf-item-2,
+.tortoiz-addons-pf-item-33{
+	width: 50%;
+	height: 600px;
+}
+.tortoiz-addons-portfolio-item-inner{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+.tortoiz-addons-portfolio-item-inner:hover .tortoiz-addons-portfolio-overlay{
+	opacity: 1;
+}
+.tortoiz-addons-portfolio-icons {
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+/* Effects */
+.tortoiz-addons-portfolio-overlay.tortoiz-addons-pf-effect-zoom{
+	transform: scale(.1);
+}
+.tortoiz-addons-portfolio-item-inner:hover .tortoiz-addons-portfolio-overlay.tortoiz-addons-pf-effect-zoom{
+	transform: scale(1);
+}
+.tortoiz-addons-portfolio-item-inner:hover .tortoiz-addons-pf-effect-move .tortoiz-addons-portfolio-zoom,
+.tortoiz-addons-portfolio-item-inner:hover .tortoiz-addons-pf-effect-move .tortoiz-addons-portfolio-link{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.tortoiz-addons-portfolio-link,
+.tortoiz-addons-portfolio-zoom{
+	transition: 0.5s;
+}
+.tortoiz-addons-pf-effect-move .tortoiz-addons-portfolio-zoom{
+	margin-top: 100px;
+}
+.tortoiz-addons-pf-effect-move .tortoiz-addons-portfolio-link{
+	margin-bottom: 100px;
+}
+
+/*--------------------------------- Posts Tab -------------------------------------- */
+.tortoiz-addons-pt-content-content .tortoiz-addons-overlay {
+	opacity: 1;
+	background-color: rgba(0, 0, 0, 0);
+	background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2) 50%, rgba(0, 0, 0, 0) 100%);
+	transition: all 0.4s;
+}
+.tortoiz-addons-pt-content-content .tortoiz-addons-overlay:hover {
+	background-color: rgba(0, 0, 0, 0.1);
+}
+.tortoiz-addons-pt-content-content{
+	overflow: hidden;
+	float: right;
+}
+.tortoiz-addons-pt-content-content .tortoiz-addons-pt-item{
+	position: relative;
+}
+.tortoiz-addons-pt-thumb-content{
+	position: absolute;
+	top: inherit;
+	bottom: 0;
+	width: 100%;
+	padding: 20px 15px;
+	opacity: 1;
+}
+.tortoiz-addons-pt-thumb-content p span{
+	margin-right: 10px;
+}
+.tortoiz-addons-pt-content .tortoiz-addons-pt-post:last-child{
+	border-bottom: 0 !important;
+}
+.tortoiz-addons-bp-thumb-right .tortoiz-addons-bg-thumb,
+.tortoiz-addons-bp-thumb-right .tortoiz-addons-bp-content,
+.tortoiz-addons-pt-content-right .tortoiz-addons-pt-posts{
+	float: right;
+}
+.tortoiz-addons-pt-title-wraper{
+	align-items: center;
+	padding-right: 20px;
+	float: left;
+}
+.tortoiz-addons-pt-content-right .tortoiz-addons-pt-title-wraper{
+	padding-left: 20px;
+	padding-right: 0;
+}
+.tortoiz-addons-pt-title-wraper p{
+	margin-bottom: 0;
+}
+.tortoiz-addons-pt-title h3{
+	margin: 0;
+	cursor: pointer;
+	transition: all 0.4s ease-in-out;
+}
+.tortoiz-addons-pt-thumb{
+	overflow: hidden;
+	float: left;
+	cursor: pointer;
+}
+.tortoiz-addons-pt-content-right .tortoiz-addons-pt-thumb{
+	padding-right: 15px;
+	padding-left: 0;
+}
+
+/*--------------------------------- Pricing -------------------------------------- */
+.tortoiz-addons-pricing {
+	text-align: center;
+}
+.tortoiz-addons-pricing-body{
+	margin: 10px 0 20px;
+	padding: 0;
+	list-style: none;
+}
+
+/*-------------------------- Progressbars --------------------------*/
+.tortoiz-addons-progressbars .tortoiz-addons-bar-bg {
+	display: block;
+	width: 100%;
+}
+.tortoiz-addons-progressbars .tortoiz-addons-bar-content {
+	width: 0;
+	height: 100%;
+}
+.tortoiz-addons-piechart .tortoiz-addons-piechart-center,
+.tortoiz-addons-progressbars .tortoiz-addons-bar-percent {
+	width: 100%;
+	align-self: center;
+}
+
+/*--------------------------------- Review Carousel -------------------------------------- */
+.tortoiz-addons-review-item{
+	text-align: center;
+}
+.tortoiz-addons-review-carousel .owl-item .tortoiz-addons-review-face {
+	margin: 20px auto;
+	border-radius: 50%;
+}
+.tortoiz-addons-posts-carousel .owl-next,
+.tortoiz-addons-review-carousel .owl-next{
+	transform: translate( 20px, -32px );
+}
+.tortoiz-addons-posts-carousel .owl-prev,
+.tortoiz-addons-review-carousel .owl-prev{
+	transform: translate( -20px, -32px );
+}
+.tortoiz-addons-posts-carousel:hover .owl-next,
+.tortoiz-addons-posts-carousel:hover .owl-prev,
+.tortoiz-addons-review-carousel:hover .owl-next,
+.tortoiz-addons-review-carousel:hover .owl-prev{
+	opacity: 1;
+	transform: translate(0, -32px);
+}
+
+/*--------------------------------- Table -------------------------------------- */
+.tortoiz-addons-table{
+	overflow-x: auto;
+}
+
+/*--------------------------------- Team -------------------------------------- */
+.tortoiz-addons-team {
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+.tortoiz-addons-team-social {
+	padding: 20px 0 0;
+}
+/* Move Effect */
+.tortoiz-addons-team:hover .tortoiz-addons-team-overlay{
+	opacity: 1;
+}
+.tortoiz-addons-team.tortoiz-addons-team-move .tortoiz-addons-team-name{
+	margin-top: 50px;
+	transition: 0.6s;
+}
+.tortoiz-addons-team.tortoiz-addons-team-move:hover .tortoiz-addons-team-name{
+	margin-top: 0;
+}
+.tortoiz-addons-team.tortoiz-addons-team-move .tortoiz-addons-team-social{
+	margin: 50px 0 0;
+	transition: 0.7s;
+}
+.tortoiz-addons-team.tortoiz-addons-team-move:hover .tortoiz-addons-team-social{
+	margin-top: 0;
+}
+/* Zoom Effect */
+.tortoiz-addons-team.tortoiz-addons-team-zoom .tortoiz-addons-team-overlay{
+	transform: scale(0.1);
+}
+.tortoiz-addons-team.tortoiz-addons-team-zoom:hover .tortoiz-addons-team-overlay{
+	transform: scale(1);
+}
+
+/*----------------------------- User Counter & Visit Counter ----------------------------------- */
+.tortoiz-addons-visit-text,
+.tortoiz-addons-visit-number,
+.tortoiz-addons-uc-number,
+.tortoiz-addons-uc-text{
+	margin: 0;
+	display: block;
+}
+
+/*--------------------------------- Video -------------------------------------- */
+.tortoiz-addons-video{
+	text-align: center;
+}
+.tortoiz-addons-video-play {
+	display: inline-block;
+	text-align: center;
+	transition: all 0.5s;
+}
+
+
+/*ANIMATIONS*/
+.tortoiz-addons-anim-right-move:hover i{
+	transform: translate(8px);
+}
+.tortoiz-addons-anim-left-move:hover i{
+	transform: translate(-8px);
+}
+.tortoiz-addons-anim-zooming:hover i{
+	animation: tortoiz-addons-anim-zooming 1s cubic-bezier(0.1, 0.8, 0.8, 1) infinite;
+}
+.tortoiz-addons-anim-right-moving:hover i{
+	animation: tortoiz-addons-anim-right-moving 0.8s cubic-bezier(0.1, 0.8, 0.8, 1) infinite;
+}
+.tortoiz-addons-anim-left-moving:hover i{
+	animation: tortoiz-addons-anim-left-moving 0.8s cubic-bezier(0.1, 0.8, 0.8, 1) infinite;
+}
+.tortoiz-addons-anim-right-bouncing:hover i{
+	animation: tortoiz-addons-anim-right-bouncing 1s cubic-bezier(0.1, 0.8, 0.8, 1) infinite;
+}
+.tortoiz-addons-anim-left-bouncing:hover i{
+	animation: tortoiz-addons-anim-left-bouncing 1s cubic-bezier(0.1, 0.8, 0.8, 1) infinite;
+}
+.tortoiz-addons-rubber-anim{
+	animation: tortoiz-addons-rubber-anim 1.5s ease-in infinite;
+}
+.tortoiz-addons-scale-anim{
+	animation: tortoiz-addons-scale-anim 1.5s cubic-bezier(0.1, 0.8, 0.8, 1) infinite;
+}
+.tortoiz-addons-wave-anim{
+	animation: tortoiz-addons-wave-anim 2s ease-in infinite;
+}
+@keyframes tortoiz-addons-anim-zooming{
+	0%, 100%{transform: scale(1);}
+	30%{transform: scale(1.5);}
+}
+@keyframes tortoiz-addons-anim-right-bouncing{
+	0%{transform: translate(0);}
+	20% {transform: translate(3px, -6px);}
+	40% {transform: translate(6px, 6px);}
+	60% {transform: translate(9px, -6px); opacity: 1;}
+	100% {transform: translate(12px, 6px); opacity: 0;}
+}
+@keyframes tortoiz-addons-anim-left-bouncing{
+	0%{transform: translate(0);}
+	20% {transform: translate(-3px, -6px);}
+	40% {transform: translate(-6px, 6px);}
+	60% {transform: translate(-9px, -6px); opacity: 1;}
+	100% {transform: translate(-12px, 6px); opacity: 0;}
+}
+@keyframes tortoiz-addons-anim-right-moving{
+	0%{transform: translate(0);}
+	60% {opacity: 1;}
+	100% {transform: translate(12px); opacity: 0;}
+}
+@keyframes tortoiz-addons-anim-left-moving{
+	0%{transform: translate(0);}
+	60% {opacity: 1;}
+	100% {transform: translate(-12px); opacity: 0;}
+}
+@keyframes tortoiz-addons-rubber-anim{
+	0%, 45%, 70%, 100% {transform: scale(1);}
+	15%, 40% {transform: scale(1.15, 0.9);}
+	55%, 65% {transform: scale(1.1, 0.95);}
+	75% {transform: scale(1.05, 0.97);}
+}
+@keyframes tortoiz-addons-scale-anim{
+	0%, 100%{transform: scale(0.85);}
+	25%{transform: scale(1.05);}
+}
+@keyframes tortoiz-addons-wave-anim{
+	0% {box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5);}
+	60% {box-shadow: 0 0 0 25px rgba(255, 255, 255, 0);}
+	100% {box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);}
+}
+@keyframes blink_cursor {
+	0%, 100% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+}
+
+
+/* RESPONSIVE-Tablet*/
+@media (max-width: 991px) {
+	.tortoiz-addons-portfolio-item{
+		width: 50%;
+		height: 400px;
+	}
+	.tortoiz-addons-bp-item-2,
+	.tortoiz-addons-bp-item-3,
+	.tortoiz-addons-bp-item-4{
+		width: 50%;
+	}
+	.tortoiz-addons-bp-item-1,
+	.tortoiz-addons-pt-content .tortoiz-addons-pt-posts,
+	.tortoiz-addons-pt-content-content{
+		width: 100%;
+	}
+}
+
+
+/* RESPONSIVE-Mobile*/
+@media (max-width: 767px) {
+	.tortoiz-addons-posts-carousel .owl-next,
+	.tortoiz-addons-posts-carousel .owl-prev,
+	.tortoiz-addons-content-slider .owl-next,
+	.tortoiz-addons-content-slider .owl-prev,
+	.tortoiz-addons-review-carousel .owl-next,
+	.tortoiz-addons-review-carousel .owl-prev,
+	.tortoiz-addons-banner-slider .owl-next,
+	.tortoiz-addons-banner-slider .owl-prev{
+		display: none;
+	}
+	.tortoiz-addons-bp-col{
+		width: calc(100% - 30px);
+	}
+	.tortoiz-addons-subs-input .tortoiz-addons-input-field{
+		width: 180px;
+	}
+	.tortoiz-addons-contact-input .tortoiz-addons-input-field,
+	.tortoiz-addons-subs-input .tortoiz-addons-input-block{
+		width: 100%;
+		margin-left: 0;
+	}
+	.tortoiz-addons-contact-input .tortoiz-addons-contact-btn,
+	.tortoiz-addons-subs-input .tortoiz-addons-input-field,
+	.tortoiz-addons-subs-input .tortoiz-addons-subs-btn{
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.tortoiz-addons-contact-input-half{
+		width: 100%;
+	}
+	.tortoiz-addons-contact-input-half:last-child{
+		margin: 0;
+	}
+	.tortoiz-addons-nt-label-both{
+		display: none;
+	}
+}
+
+
+/* RESPONSIVE-Mobile Too Small*/
+@media (max-width: 540px) {
+	.tortoiz-addons-bp-item-1,
+	.tortoiz-addons-bp-item-2,
+	.tortoiz-addons-bp-item-3,
+	.tortoiz-addons-bp-item-4,
+	.tortoiz-addons-portfolio-item{
+		width: 100%;
+	}
+}
